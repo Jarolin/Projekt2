@@ -4,7 +4,10 @@
 
 ### Erste Informatikstunde, 27.11.18
 
-In der ersten Stunde hat Herr Buhl uns weitere Möglichkeiten für das Projekt für das zweite Halbjahr vorgeschlagen bzw. vorgestellt. Zunächst haben wir überlegt, genau wie bei unsererm vorherigen Projekt "App Inventor" zum Programmieren zu verwende. Da wir jedoch beide ein Apple Smartphone und kein Android besitzen, wäre dies etwas unpraktisch. Um die gleichen Probleme wie bei unserem vorherigen Projekt zu vermeiden, nämlich das zu Seltene Ausprobieren des Programmierten, hatten wir die Idee mit App Lab zu programmieren.
+In der ersten Stunde hat Herr Buhl uns weitere Möglichkeiten für das Projekt für das zweite Halbjahr vorgeschlagen bzw. vorgestellt. 
+Zunächst haben wir überlegt, genau wie bei unsererm vorherigen Projekt "App Inventor" zum Programmieren zu verwende. Da wir jedoch beide ein Apple Smartphone und kein Android besitzen, wäre dies etwas unpraktisch. 
+Um die gleichen Probleme wie bei unserem vorherigen Projekt zu vermeiden, nämlich das zu Seltene Ausprobieren des Programmierten, hatten wir die Idee mit App Lab zu programmieren.
+
 Wir haben uns bei Klassenkameraden, die damit ihr letztes Projekt programmeirt haben erkundigt und nur positives Feedback bekommen. 
 Deshalb haben wir uns bei App Lab einen Account erstellt und begonnen, uns mit dem Progrmm vertraut zu machen. 
 Wir haben uns den Aufbau des Programms angeschaut und bei den Blocks einige Ähnlichkeiten zu App Inventor entdeckt. Dennoch mussten wir uns einige YouTube Tutorials ansehen. 
