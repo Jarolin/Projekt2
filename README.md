@@ -39,5 +39,9 @@ Heute haben wir uns in App Lab versucht hereinzuarbeiten und dazu den potenziell
 
 ![bsp screenfuchs2](Bilder.exe/screenfuchs2.png)
 
+Außerdem haben wir konkretere Idenn für unsere Spielidee gesammelt. 
+Unser Protagonist soll den Spieler durch das Geschehen leiten, momentan ist dies ein Fuchs. 
+Das Spiel soll, wenn möglich, in mehrere Ebenen unterteilt werden. Eine Spielebene, eine Quizebene und eine Testebene. Das Spiel ist somit eine Art Spielplatz für den Spieler, der sich in verschiedenen Bereichen ausprobierern kann. 
+
 
 
