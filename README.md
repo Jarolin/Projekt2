@@ -27,7 +27,7 @@ Heute haben wir unser erstes Projekt benotet zurückbekommen. Wir haben uns sehr
 Außerdem durften wir unser Projekt der Klasse vorgestellen und präsentieren.
 Den Rest der Stunde haben wir weitere Ideen gesammelt für ein neues Projekt. 
 
-### Vierte Informatikstunde
+### Vierte Informatikstunde, 17.12.18
 
 Heute haben wir leider beide beim Informatikunterricht gefehlt, Janina aufgrund von Krankheit, Carolin wegen eines Arztbesuchs. Dennoch haben wir zu Hause an dem Projekt weitergearbeitet. 
 Wir haben...
