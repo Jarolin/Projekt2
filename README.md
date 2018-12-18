@@ -30,13 +30,12 @@ Den Rest der Stunde haben wir weitere Ideen gesammelt für ein neues Projekt.
 ### Vierte Informatikstunde, 17.12.18
 
 Heute haben wir leider beide beim Informatikunterricht gefehlt, Janina aufgrund von Krankheit, Carolin wegen eines Arztbesuchs. Dennoch haben wir zu Hause an dem Projekt weitergearbeitet. 
-Wir haben...
+Wir haben... am blog
 
 ### Fünfte Informatikstunde, 18.12.18
 
-Heute haben wir
+Heute haben wir uns in App Lab versucht hereinzuarbeiten und dazu den potenziellen Startbildschirm für unsere App kreiert.
 
-![bsp Unbenannt](Bilder/Unbenannt.png)
 
 ![bsp screenfuchs2](Bilder.exe/screenfuchs2.png)
 
