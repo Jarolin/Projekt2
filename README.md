@@ -36,9 +36,9 @@ Wir haben...
 
 Heute haben wir
 
+![bsp Unbenannt](Bilder/Unbenannt.png)
 
-
-![bsp screenfuchs2](Bilder/screenfuchs2.png)
+![bsp screenfuchs2](Bilder.exe/screenfuchs2.png)
 
 
 
