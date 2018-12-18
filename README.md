@@ -32,4 +32,6 @@ Den Rest der Stunde haben wir weitere Ideen gesammelt für ein neues Projekt.
 Heute haben wir leider beide beim Informatikunterricht gefehlt, Janina aufgrund von Krankheit, Carolin wegen eines Arztbesuchs. Dennoch haben wir zu Hause an dem Projekt weitergearbeitet. 
 Wir haben...
 
-###Vierte Informatikstunde, 18.12.18
+### Fünfte Informatikstunde, 18.12.18
+
+Heute haben wir
