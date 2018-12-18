@@ -35,3 +35,10 @@ Wir haben...
 ### Fünfte Informatikstunde, 18.12.18
 
 Heute haben wir
+
+
+
+![bsp screenfuchs2](Bilder/screenfuchs2.png)
+
+
+
