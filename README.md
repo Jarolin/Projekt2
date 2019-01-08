@@ -49,4 +49,10 @@ Das Spiel soll, wenn möglich, in mehrere Ebenen unterteilt werden. Eine Spieleb
 
 Wir haben den zweiten Screen erstellt, also das "Fuchsland". Man kommt dahin, indem man auf Screen1 auf den Button 1 ("ins Fuchsland") drückt. 
 
+
 ![bsp screen2](Bilder.exe/screen2.png)
+
+
+Unser Problem ist im Moment, dass wir nicht herausfinden, wie man in die if-Schleifen bestimmte Befehle, die wir von App-Inventor kennen, einfügt, da sie nicht als Block gibt. So brauchen wir zum Beispiel so etwas wie "If Button 1 is touched, open Screen2".
+
+
