@@ -46,3 +46,5 @@ Das Spiel soll, wenn möglich, in mehrere Ebenen unterteilt werden. Eine Spieleb
 
 
 ### Sechste Informatikstunde, 08.01.2019
+
+Wir haben 
