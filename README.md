@@ -17,7 +17,7 @@ Interessant fanden wir ebenfalls die Möglichkeit Animationsfilme zu erstellen.
 ### Zweite Informatikstunde, 03.12.18
 
 Heute haben wir unser zweites Projekt auf GitHub erstellt. Dazu haben wir einen neue Projetseite angelegt und begonnen den neuen Stundenblock zu schreiben.
-Anschließend haben wir uns weiter mit AppLab vertraut gemacht. Des Weiteren ksmen uns erste Ideen für ein Projekt. Eventuell wollen wir eine Wissensapp erstellen, allerdings sind wir uns da noch nicht einig.
+Anschließend haben wir uns weiter mit AppLab vertraut gemacht. Desweiteren kamen uns erste Ideen für ein Projekt. Eventuell wollen wir eine Wissensapp erstellen, allerdings sind wir uns da noch nicht einig.
 
 
 
@@ -55,4 +55,10 @@ Wir haben den zweiten Screen erstellt, also das "Fuchsland". Man kommt dahin, in
 
 Unser Problem ist im Moment, dass wir nicht herausfinden, wie man in die if-Schleifen bestimmte Befehle, die wir von App-Inventor kennen, einfügt, da sie nicht als Block gibt. So brauchen wir zum Beispiel so etwas wie "If Button 1 is touched, open Screen2".
 
+
+### Siebte Informatikstunde, 15.01.2019
+
+Da die letzte Stunde ausgefallen ist, haben wir uns zu Hause intensiv mit dem Projekt beschäftigt. Dabei ist uns aufgefallen, dass uns das Design von App Inventor doch besswer gefällt. Damit haben wir unser vorheriges Informatikprojekt programmiert. 
+Zwar hatte App Inventor einige Nachteile, zum Beispiel dass wir unsere App nicht auf unseren iPhones ausprobieren konnten.
+Aber mit App Inventor haben wir sehr viel mehr Erfahrung und können eventuell auch erst mal vieles programmieren und später mit Hilfe von Personen mit einem Android Handy das Programmierte ausprobieren. 
 
