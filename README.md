@@ -62,3 +62,7 @@ Da die letzte Stunde ausgefallen ist, haben wir uns zu Hause intensiv mit dem Pr
 Zwar hatte App Inventor einige Nachteile, zum Beispiel dass wir unsere App nicht auf unseren iPhones ausprobieren konnten.
 Aber mit App Inventor haben wir sehr viel mehr Erfahrung und können eventuell auch erst mal vieles programmieren und später mit Hilfe von Personen mit einem Android Handy das Programmierte ausprobieren. 
 
+
+### Achte Informatikstunde, 21.01.2019
+
+Heute haben wir auf App Inventor unser Projekt so weit übertragen, wie wir es bereits auf App Lab erstellt hatten. Unser einziges Problem ist, dass man auf App Inventor eine Grenze in der Anzahl von 
