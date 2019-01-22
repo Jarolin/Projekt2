@@ -67,4 +67,8 @@ Aber mit App Inventor haben wir sehr viel mehr Erfahrung und können eventuell a
 
 Heute haben wir nach einbigen technischen Problemen auf App Inventor unser Projekt so weit übertragen, wie wir es bereits auf App Lab erstellt hatten. Unser einziges Problem ist, dass man auf App Inventor eine Grenze in der Anzahl von Screens hat. Für unsere Idee benötigen wir jedoch vorraussichtlich mehr als zehn verschiedene Screens. Wir hatten die Idee, dass man eventuell mehrere Canvas in einen Screen legt und die App so programmiert, dass die Canvas pro Screen gewechselt werden können. 
 
+### Neunte Informatikstunde, 22.01.2019
+
+app lab, klimaschutz, helllpppp
+
  
