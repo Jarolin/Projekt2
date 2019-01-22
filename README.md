@@ -70,5 +70,10 @@ Heute haben wir nach einbigen technischen Problemen auf App Inventor unser Proje
 ### Neunte Informatikstunde, 22.01.2019
 
 app lab, klimaschutz, helllpppp
+In der heutigen Informatikstunde haben wir unsere Idee für unser Projekt konkretisiert. Der Fuchs soll weiterhin durch das Spiel leiten, jedoch hat unsere App nun ein spezielles Thema: Klimaschutz.
+Weiterhin soll es die verschiedenen Bereiche in der App geben. In der Sp8ielebene wir d ein Spiel gespielt, dessenm Konmzept wir uns noch genauer überlegen müssen. Dabei soll der Spieler jedoch virtuell "die Welt retten", zum Beispiel Müllstücke auffangen. In der Quizebene wartet ein Quiz auf den Spieler, in welchem er sein Wissen über den Klimaschutzu testen kann. 
+Dort werden Fragen zu den Ursachen, Konsequenzen und Möglichkeiten sich für das Klima einzusetzen getestet.
+In der Test Ebene findet der Spieler einen Persönlichkeitstest, im dem er testwen kann, ob er bereits genug für den Klimaschutz tut. 
+
 
  
