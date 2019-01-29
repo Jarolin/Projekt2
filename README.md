@@ -86,4 +86,4 @@ Zudem ähneln sich die beiden Programme von den Blocks her stark.
  
  ![bsp screenshot2](Bilder.exe/screenshot2.png)
  
- ![bsp screenshot2](Bilder.exe/screenshot2.png)
+ ![bsp screenshot3](Bilder.exe/screenshot3.png)
