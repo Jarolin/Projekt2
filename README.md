@@ -78,5 +78,7 @@ In der Testebene findet der Spieler einen Persönlichkeitstest, im dem er testen
 ### Zehnte Informatikstunde, 29.01.2019
 
 Wir haben momentan das Problem, dass wir unser Projekt sowohl auf AppLab begonnen haben, als auch auf AppInventor damit gestartet haben. 
-
+Da wir nun aber ein Handy gefunden haben, mit dem wir unsere App durchgehend ausprobierebn können, haben wir uns nun endgültig für App Inventor entschieden. 
+Es ist zwar etwas ärgerlich, da wir bereits so viel Energie in unser Projekt auf AppInventor gesteckt haben, jedoch konnten wir unsere bisherigen Programmiereungen leicht auf AppInventor übertragenb. Das lag auch daran, dass wir uns gerade in der Anfangsphase mehr auf das Konkretisieren der Idee und des Designs konzentriert haben.
+Zudem ähneln sich die beiden Programme von den Blocks her stark. 
  
