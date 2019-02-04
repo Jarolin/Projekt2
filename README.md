@@ -86,3 +86,13 @@ Hier die ersten Eindrücke von unseren Startscreens für die einzelnen Ebenen.
  ![bsp screenshot2](Bilder.exe/screenshot2.png)
  
  ![bsp screenshot3](Bilder.exe/screenshot3.png)
+ 
+ 
+ ### Elfte Informatikstunde, 04.02.2019
+ 
+ 
+ Heute haben wir weiter an den einzelnen Screens garbeitet und uns dabei erstmal auf das Design und die Bezeichnungen für die verschiedenen Screens und buttons konzentriert. Danach haben wir für die Quizebene drei Fragescreens erstellt, die um den Klimaschutz gehen. 
+ 
+ Da morgen die Doppelstunde ausfällt, haben wir heute zudem zu Hause weiter an dem Projekt gearbeitet.
+ 
+ Dazu ein paar Eindrücke:
