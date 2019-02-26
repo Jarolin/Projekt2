@@ -98,3 +98,28 @@ Hier die ersten Eindrücke von unseren Startscreens für die einzelnen Ebenen.
  fragescreens programmierung bennnungen übersicht 
  
  Dazu ein paar Eindrücke:
+ 
+ 
+ ### Zwölfte Informatikstunde 05.02.2019
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### Dreizehnte Informatikstunde 11.02.2019
+ 
+ ### Vierzehnte Informatikstunde 12.02.2019
+ 
+ ### Fünfzente Indormatikstunde 19.02.2019
+ 
+ ### Sechzehnte Informatikstunde 25.02.2019
+ 
+ ### Siebzehnte Informatikstunde 26.02.2019
+ 
