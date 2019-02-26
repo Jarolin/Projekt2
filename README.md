@@ -5,49 +5,56 @@
 ### Erste Informatikstunde, 27.11.18
 
 In der ersten Stunde hat Herr Buhl uns weitere Möglichkeiten für das Projekt für das zweite Halbjahr vorgeschlagen bzw. vorgestellt. 
-Zunächst haben wir überlegt, genau wie bei unsererm vorherigen Projekt "App Inventor" zum Programmieren zu verwende. Da wir jedoch beide ein Apple Smartphone und kein Android besitzen, wäre dies etwas unpraktisch. 
-Um die gleichen Probleme wie bei unserem vorherigen Projekt zu vermeiden, nämlich das zu Seltene Ausprobieren des Programmierten, hatten wir die Idee mit App Lab zu programmieren.
+Zunächst haben wir überlegt, genau wie bei unsererm vorherigen Projekt, "App Inventor" zum Programmieren zu verwenden. Da wir jedoch beide ein Apple Smartphone und kein Android besitzen, wäre dies etwas unpraktisch. 
+Um die gleichen Probleme wie bei unserem vorherigen Projekt zu vermeiden, nämlich das zu seltene Ausprobieren des Programmierten, hatten wir die Idee mit App Lab zu programmieren.
 
 Wir haben uns bei Klassenkameraden, die damit ihr letztes Projekt programmeirt haben erkundigt und nur positives Feedback bekommen. 
 Deshalb haben wir uns bei App Lab einen Account erstellt und begonnen, uns mit dem Progrmm vertraut zu machen. 
 Wir haben uns den Aufbau des Programms angeschaut und bei den Blocks einige Ähnlichkeiten zu App Inventor entdeckt. Dennoch mussten wir uns einige YouTube Tutorials ansehen. 
-Interessant fanden wir ebenfalls die Möglichkeit Animationsfilme zu erstellen.
+Interessant fanden wir ebenfalls die Möglichkeit bei AppLab Animationsfilme zu erstellen.
 
 
 ### Zweite Informatikstunde, 03.12.18
 
-Heute haben wir unser zweites Projekt auf GitHub erstellt. Dazu haben wir einen neue Projetseite angelegt und begonnen den neuen Stundenblock zu schreiben.
-Anschließend haben wir uns weiter mit AppLab vertraut gemacht. Desweiteren kamen uns erste Ideen für ein Projekt. Eventuell wollen wir eine Wissensapp erstellen, allerdings sind wir uns da noch nicht einig.
-
+Zunächst haben wir unser zweites Projekt auf GitHub erstellt. Dazu haben wir eine neue Projektseite angelegt und begonnen den neuen Stundenblock zu schreiben.
+Anschließend haben wir uns weiter mit AppLab vertraut gemacht. Des Weiteren kamen uns erste Ideen für ein Projekt.
+Eventuell wollen wir eine Wissensapp erstellen, allerdings sind wir uns da noch nicht einig.
+Wir haben bereits bei unserer vorherigen App bemerkt, dass uns beiden sehr wichtig ist, dass Apps nicht ausschließlich zum Spaß haben existieren. Neben dem Spaßfaktor sollte der Spieler unserer Ansicht nach auch etwas daraus lernen. 
+Somit kann man es nicht als "Zeitverschwendung" bezeichnen das Produkt hinterher zu spielen, der einzelne Spieler nimmt etwas daraus mit, egal, ob es sich um das Erweitern von Wissen oder seine Persönlichkeitsentwicklung handelt. 
 
 
 ### Dritte Informatikstunde, 11.12.18
 
-Heute haben wir unser erstes Projekt benotet zurückbekommen. Wir haben uns sehr darüber gefreut, dass unsere Arbeit so positive Rückmeldung bekam.
-Außerdem durften wir unser Projekt der Klasse vorgestellen und präsentieren.
-Den Rest der Stunde haben wir weitere Ideen gesammelt für ein neues Projekt. 
+Heute haben wir unser erstes Projekt benotet zurückbekommen. Wir haben uns sehr darüber gefreut, dass unsere Arbeit so positive Rückmeldung bekam. Dies zeigt einem, dass es sich gelohnt hat sio vuiel Zeit und Mühe in das Informatikprojekt zu stecken. Außerdem motiviert es einen ebenfalls am neuen Projekt sehr engagiert zu arbeiten. 
+Im Zuge der Rückmeldungen zu unseren Projekten durften wir unser Projekt vor der Klasse präsentieren und vorstellen. Es hat uns sehr gefallen, dass wir auch einzelone andere Projekte von Mitschülern vorgestellt bekamen. Dies inspiriert einen und zeigt einem, wie unterschiedlich die Ergebnisse am Ende der Arbeitsphase doch gewordenj sind. Außerdem konnte man Differenzen des eigenen zu anderen Programmierprogrammen feststellen, was uns bei der Entscheidung bekräftigte, dass wir es bei dem zweiten Projekt mit dem für uns neuen Programm AppLab versuchen wollen. 
+Den Rest der Stunde haben wir weitere Ideen für unser neues Projekt gesammelt.
 
 ### Vierte Informatikstunde, 17.12.18
 
-Heute haben wir leider beide beim Informatikunterricht gefehlt, Janina aufgrund von Krankheit, Carolin wegen eines Arztbesuchs. Dennoch haben wir zu Hause an dem Projekt weitergearbeitet. 
-Wir haben... am blog
+Heute haben wir leider beide beim Informatikunterricht gefehlt, Janina aufgrund von Krankheit, Carolin wegen eines Arztbesuches. Dennoch haben wir zu Hause weitergearbeitet. 
+Wir haben unter anderem den Blog der ersten Informatikstunden verbessert. 
+Außerdem haben wir mit dem Gedanken gespielt, die Gestaltung einer Homepage als neues Projekt zu wählen. Dafür würde sprechen, dass uns dies im späteren Leben ebenfalls zu Gute kommen könnte, beispielsweise wenn wir selbstständig werden möchten.
+Auch möchte Carolin schon länger eine Homepage für ihre eigenen Kurzfilome erstellen, was sich mit dem Informatikprojekt verbinden lassen würde. 
+Dennoch haben wir uns letztendlich für das Erstellen einer App entschieden, da uns dies spannender erschien und Carolin nicht so gerne eine Art "Selbstdarstellung" als Schulprojekt machen wollte. ;)
 
 ### Fünfte Informatikstunde, 18.12.18
 
-Heute haben wir uns in App Lab versucht hereinzuarbeiten und dazu den potenziellen Startbildschirm für unsere App kreiert.
+Heute haben wir uns in App Lab versucht hinein zu arbeiten und dazu den potenziellen Startbildschirm für unsere App kreiert.
 
 
 ![bsp screenfuchs2](Bilder.exe/screenfuchs2.png)
 
-Außerdem haben wir konkretere Idenn für unsere Spielidee gesammelt. 
-Unser Protagonist soll den Spieler durch das Geschehen leiten, momentan ist dies ein Fuchs. 
-Das Spiel soll, wenn möglich, in mehrere Ebenen unterteilt werden. Eine Spielebene, eine Quizebene und eine Testebene. Das Spiel ist somit eine Art Spielplatz für den Spieler, der sich in verschiedenen Bereichen ausprobierern kann. 
-
+Verbunden mit diesem haben wir konkretere Ideen für unsere Appidee gesammelt. 
+Ein sogenannter "Protagonist" soll den Spieler durch das Geschehen leiten, momentan ist dies ein Fuchs. 
+Die App soll, wenn möglich, in mehrere Ebenen unterteilt sein. Eine Spielebene, eine Quizebene und eine Testebene. 
+Die App ist somit eine Art "Spielplatz" für den Spieler, der sich in verschiedenen Bereichen ausprobierern kann. 
+Über das konkrete Thema unserer App waren wir uns noch nicht einig. 
+Für zu Hause nahmen wir uns vor, uns über die Ferien gedanken darüber zu machen und weiter an dem Design unserer App zu feilen. 
 
 
 ### Sechste Informatikstunde, 08.01.2019
 
-Wir haben den zweiten Screen erstellt, also das "Fuchsland". Man kommt dahin, indem man auf Screen1 auf den Button 1 ("ins Fuchsland") drückt. 
+Wir haben in der heutigen Informatikstunde den zweiten Screen erstellt, also das "Fuchsland". Man kommt dahin, indem man auf Screen1 auf den Button 1 ("ins Fuchsland") drückt. 
 
 
 ![bsp screen2](Bilder.exe/screen2.png)
@@ -55,10 +62,13 @@ Wir haben den zweiten Screen erstellt, also das "Fuchsland". Man kommt dahin, in
 
 Unser Problem ist im Moment, dass wir nicht herausfinden, wie man in die if-Schleifen bestimmte Befehle, die wir von App-Inventor kennen, einfügt, da sie nicht als Block gibt. So brauchen wir zum Beispiel so etwas wie "If Button 1 is touched, open Screen2".
 
+Über die Ferien kam uns die Idee, dass unsere App etwas mit dem Thema Klimaschutz zu tun haben soll. Wir finden beide, dass Klimaschutz ein sehr wichtiges Thema in unserer Gesellschaft ist. 
+Auch die aktuell gefeierte 16-jährige Klimaaktivistin Greta Thunberg und die mitt ihr verbundenen "FridaysForFuture" - Klimademonstrationen verhalfen uns zu der Idee für unsere App.
+Da unsere App als besondere Zielgruppe Kinder und Jugendliche haben soll, könnte sie dazu beitragen, dass sich noch mehr junge Leute der aktuellen Bewegung anmschließen und so sensibel für das Thema werden, dass sie selber etwas dazu beitragen wollen. Damit wäre der bereits angespriochene Lerneffekt, der uns beiden wichtig ist, erfüllt.
 
 ### Siebte Informatikstunde, 15.01.2019
 
-Da die letzte Stunde ausgefallen ist, haben wir uns zu Hause intensiv mit dem Projekt beschäftigt. Dabei ist uns aufgefallen, dass uns das Design von App Inventor doch besswer gefällt. Damit haben wir unser vorheriges Informatikprojekt programmiert. 
+Da die letzte Stunde ausgefallen ist, haben wir uns zu Hause intensiv mit dem Projekt beschäftigt. Dabei ist uns aufgefallen, dass uns das Design von App Inventor doch besser gefällt. Damit haben wir unser vorheriges Informatikprojekt programmiert. 
 Zwar hatte App Inventor einige Nachteile, zum Beispiel dass wir unsere App nicht auf unseren iPhones ausprobieren konnten.
 Aber mit App Inventor haben wir sehr viel mehr Erfahrung und können eventuell auch erst mal vieles programmieren und später mit Hilfe von Personen mit einem Android Handy das Programmierte ausprobieren. 
 
