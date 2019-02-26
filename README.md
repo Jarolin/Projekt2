@@ -100,26 +100,46 @@ Hier die ersten Eindrücke von unseren Startscreens für die einzelnen Ebenen.
  Dazu ein paar Eindrücke:
  
  
- ### Zwölfte Informatikstunde 05.02.2019
+ ### Zwölfte Informatikstunde 12.02.2019
+ 
+ Aufgrund von Ausfall der Informatikstunden zuvor haben wir in der Zwischenzeit zu Hause an unserem Projekt weitergearbeitet. 
+ Insbesondere am Design der Screens haben wir Veränderungen vorgenommen.
+Zu Beginn der zwölften Informatikstunde ließ sich aufrgrund vobn Fehlern im Code nicht mehr von der Textansicht zur Bausteineansicht wechseln. Somit muassten wir zunächst versuchen den Fehler zu finden und zu verbessern. 
+Dies wäre in der Bausteineansicht sehr viel löeichter gewesen und es kostete Zeit, bis wir ein paar euinzelne Klammern so verändert hatten, dass das Programm sich wieder umschalten ließ. 
+Anschließend haben wir uns eine weitere frage zum Klimawandel ausgedacht, das Design dieser erstellt und die notwendigen Befehle programmeirt. Wir haben uns ebenfalls den Erklärtext ausgedacht.
+
  
  
+
+ 
+ ### Dreizehnte Informatikstunde 19.02.2019
+ 
+ Heute haben wir intensiv an unserem Projekt weitergearbeitet. Aufgrund der vielen verschiedenen Antwortmöglichkeiten und dem damit verbundenem Öffnen verschiedener Screens, ist unsere Programmierung etwas unübersichtlich geworden. 
+Somit haben wir etwas den Überblick verloren, welche Programmierungen und Buttons bereits funktionieren und welche noch nicht. 
+Deshalb haben wir uns heute vorgenommen, dies intensiv mit Hilfe eines Baumdiagramms zu überprüfen. Wir haben alle möglichen Kombinationen von Antwortmöglichkkeiten ausprobiert und hinter funktionierende Pfade einen Heken gesetzt. Einzelne Blöcke haben jedoch nicht funktioniert, weswegen wir im Code nach Fehlern suchen mussten.
+Manchmal waren die enstprechenden Programmierungen bereits vorhanden und nur in einer Zeile verrutscht oder an der falschgen Stelle in den Code eingefügt. 
+Auch fehlte ab und zu eine eionzelne Klammer, sodass der gesamte Befehl wirkungslos wurde. 
+Am Ende der Stunde haben wir beinahe das gesamte Baumdiagramm fertig stellen können und in den bereits überprüften Pfaden alle Fehler beheben können. Die restlichen Pfade müssen wir nächste Stunde noch überprüfen.
  
  
+ ### Vierzehnte Informatikstunde 25.02.2019
  
+ In der heutigen Informatuikstunde haben wir mit dem Überprüfen der einzelnen Pfade weitergemacht. Jedoch ist uns aufgefallen, dass die Programmierung trotz am Ende vorhandener Funktionalität viel zu umständlich, kompliziert und unübersichtlich geworden ist. 
+ Aus diesem Grund haben wir uns nach einem kurzen Beratungsgespräch mit Herr Buhl dazu entschlossen, dass wir versuchen wollen eine Lösung zu finden, sodass einzelne Befehle zusammengefasst werden können und dier vielen Pfade wegfallen. 
+ Zu Hause möchten wir uns mit Hilfe von Tutorials darüber informieren, ob und inwiefern  dies möglioch ist. 
+ Auch haben wir heute die Dseadline für unser Projekt mit Herrn Buhl besprochen. Daraufhin haben wir uns einen Plan gemacht, was wir bis wann fertig haben möchten, damit wir das Projekt trotz unserer zahltreichen Klausuren und der Abiturvorbereitung recfhtzeitig fertigstellen können.
+ Auch haben wir darüber nachgedacht, ob es zeitlich machbar isr alle drei geplanten Bereiche des Fuchslandes (Quiz, Test und Spiel) umzusetzten. Wir haben beschlossen mindestens einen weiteren Bereich bis zur Abgabe fertig zu stellen. Sollte die Zeit reichen, werden wir ebenfalls den dritten Bereich erstellen. Zur Not würde der Bereich "Test" leider wegfallen.
  
+ ### Fünfzente Indormatikstunde 26.02.2019
  
- 
- 
- 
- 
- 
- ### Dreizehnte Informatikstunde 11.02.2019
- 
- ### Vierzehnte Informatikstunde 12.02.2019
- 
- ### Fünfzente Indormatikstunde 19.02.2019
- 
- ### Sechzehnte Informatikstunde 25.02.2019
- 
- ### Siebzehnte Informatikstunde 26.02.2019
+Heute war Janina leider krank, weswegen Carolin alleine am Projekt weiterarbeiten musste. 
+Janina hat währenddessen zu Hauase weiter nach Lösungen gesucht um unsere Programmierung zu vereinfachen. 
+Carolin hat ihre Zeit in der heutigen Doppelstunde der schriftlichen Dokumentierung der letzten beiden Stunden gewidmet und an unserem Projektblog weitergearbeitet.
+Außerdem hat sie mit der Gestaltung der Projektseite weitergemacht und dort schonmal den Aufbau unserer App, die Idee dahinter und ihre Intention erklärt.
+ Des Weiteren hat Carolin sich Gedanken über den zweiten Bereich unserer App, der Spielebene gemacht. 
+ Bis jetzt haben wirt sehr viel Zeit in das Programmieren des Quizzes gesteckt, was sich aufgrund der verschiedenen Erklärtexte usw. als komplizierter als zunächst gedacht erwies. 
+Bei der Spielebene hatten wir uns bereits vorher überlegt, dass das Spiel ebenfalls klimaschutzbezogen sein soll.
+eine mögliche konkrete Idee wäre beispielsweise das Müllfangen. Die Müllverschmutzung ist ein großes Problem unseres Planeten und ein wichtiger Punkt im Klimaschutz. Wenn man in einem Spiel eine Figur einzelne Müllteile fangen oder sammeln lässt und wes dafür belohnungen in Form von Punkten gibt, kann das eine positive Auswirkung auf duie Psyche der Spieler haben. 
+Durch den Anreiz im Spiel werden sie für das Müllproblem sensibilisiert und achten unterbewusst im echten Leben darauf ihre Müllverschmutzung zu reduzieren oder Müll aufzusammeln. So können durch das Spiel spielerisch wichtige Werte vermittelt werden, die ihm einen Sinn geben und unserer Welt zu Gute kommen. 
+
  
