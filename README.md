@@ -152,4 +152,9 @@ Bei der Spielebene hatten wir uns bereits vorher überlegt, dass das Spiel ebenf
 eine mögliche konkrete Idee wäre beispielsweise das Müllfangen. Die Müllverschmutzung ist ein großes Problem unseres Planeten und ein wichtiger Punkt im Klimaschutz. Wenn man in einem Spiel eine Figur einzelne Müllteile fangen oder sammeln lässt und wes dafür belohnungen in Form von Punkten gibt, kann das eine positive Auswirkung auf duie Psyche der Spieler haben. 
 Durch den Anreiz im Spiel werden sie für das Müllproblem sensibilisiert und achten unterbewusst im echten Leben darauf ihre Müllverschmutzung zu reduzieren oder Müll aufzusammeln. So können durch das Spiel spielerisch wichtige Werte vermittelt werden, die ihm einen Sinn geben und unserer Welt zu Gute kommen. 
 
+### Sechzehnte Informatikstunde 4.3.2019
+
+### Siebzehnte Informatikstunde 5.3. 2019
+
+### Achtzehnte Informatikstunde 18.3. 2019
  
