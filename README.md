@@ -173,6 +173,10 @@ Außerdem haben wir heute eine Funktion eingebaut, dass der Fuchs an den Seiten 
 
 In den letzten Stunden ist der Informatikunterrricht leider ausgefallen. In der Zwischenzeit haben wir jedoch zu Hause weitergewarbeitet. Unter anderem haben wir endlich versucht unser sehr unübersichtliche Programmierung des Quizzes zu vereinfachen. Dies ist nach vielen gescheiterten und langen Versuchen dann auch geglückt. Durch das Einfügen von if- Schleifen und dem Auflösen der zahlreichen Verschachtelungen ist es uns gelungen, dass die Blogs sehr viel übersichtlicher wurden. 
 
+![bsp verein](Bilder.exe/verein.png)
+
+![bsp verein2](Bilder.exe/verein2.png)
+
 ### Neunzehnte Informatikstunde, 25.03.2019
 
 
