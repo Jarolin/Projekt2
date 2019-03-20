@@ -192,5 +192,21 @@ komprimiert:
 
 ### Ausblick auf die weitere Arbeit
 
+- noch testebene
+
+
+
+
+
+
 ### Rückblick auf besherige Arbeit 
 
+Auch wenn unser Projekt zu deisem Zeitpunkt noch nicht abgeschlossen ist, könne wir sagen, dass uns die Arbeit wie bereits letztes Mal sehr viel Spaß gebracht hat. 
+Wir waren überrascht davon, dass es wider Erwaten doch sehr lange gedauert hat sich in das neue Programm AppLab hineinzufinden. 
+Uns selber würden wir empfehlen, dass wir uns nächstes Mal etwas schneller komplett entscheiden. Dadurch, dass wir zu Beginn des Projekts sowohl auf AppLab, als auch auf AppInventor angefanghen haben, hat uns sehr viel Zeit gekostet. 
+Jedoch denken wir auch, dass man erst durch Erfahrung lernt, welches Programm sich für welche Dinge besser eignet. 
+Unseren Erfahrungen nach kann auf AppInventor sehr schöne Spiele entwickeln, bei denen sich Bälle oder Sprites auf dem Canvas bewegen. Jedoch finden wir das Design von AppLab ästhetischer und moderner. Des Weiteren gibt es bei AppLab kein ScreenLimit, so dass sich dieses Programm besonders gut für das Programmieren von beispielsweise Quizapps eignet. 
+Insgesamt sind wir sehr froh, dass wir unser zweites Projekt mit einem neuen Programm gemacht haben, da man so seine Kenntnisse im Progreammieren erweitern und dazulernen konnte. 
+Auch sind wir dankbar, dass wir surch den INformatikunterricht in der Schule überhaupt mit dem Programmieren in Berührung kommen konnten. Ehrlich gesagt müssen wir zugeben, dass wir vor der zwölften Klasse ein sehr falsches Bild von INformatik hatten. Die Projekte haben uns gezeigt, dass dies keineswegs nur etwas für Computerfreaks ist. Genauso wichtig sind Ideen, Kreativität und Design. Außerdem spielen Logik und das Suchen nach INtelligenten Lösungen eine große Rolle. Anfangs ist es sehr anstrengend, doch je mehr man in sein Projekt und das Programm hineinfindet, desto mehr Spaß bringt es. 
+Wir sind jedenfalls froh diese Erfahrung gemacht zu haben und denken, dass sie einem im späteren Leben an einigen Stellenb behilflich sein könnte. 
+Dafür möchten wir uns an dieser Stelle noch einmal bedanken. :)
