@@ -175,7 +175,6 @@ In den letzten Stunden ist der Informatikunterrricht leider ausgefallen. In der 
 
 ![bsp verein](Bilder.exe/verein.png)
 
-![bsp verein2](Bilder.exe/verein2.png)
 
 ### Neunzehnte Informatikstunde, 25.03.2019
 
