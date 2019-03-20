@@ -154,7 +154,34 @@ Durch den Anreiz im Spiel werden sie für das Müllproblem sensibilisiert und ac
 
 ### Sechzehnte Informatikstunde 4.3.2019
 
+In deiser Informatikstunde haben wir uns intensiv mit der zweiten Ebene unserer App, dem Spiel, beschäftigt. Zu Hause hatten wir uns beide bereits darüber informiert, mit welchen Befehlen man eine Spielfigur steuern kann.
+Bei unsererm vorherigen Projekt auf AppInventor hatten wir ebenfalls eine sich bewegende Spielfigur, jedoch geschah das dort mit anderen Befehlen. 
+Auf App Inventor musste man ein sogenanntes "Sprite" als Figur verwenden, dieses suchten wir auf AppLAb jedoch vergeblich. 
+Schließlich fanden wir heraus, dass auf AppLab einfach "Images" verwendet werden.
+Das stellt uns vor ein Problem, denn die Müllobjekte, die der Fuchs einsammeln soll, müssen somit ebenfalls "Images" sein. Jedoch findet man im Internet die meisten Bilder nur mit einem weißen Hintergrund. 
+Uns kam die Idee, dass man ein Bild aus dem INternet mit HIlfe alternativer Apps wie Snapchat als "Sticker" zuschneiden könnte und deisen dann verwenden könnte. Jedoch müssen wir zu Hause überprüfen, ob das möglich ist. 
+Wir fügten unseren Fuchs in deiser Stunde das Programm ein, jedoch dauerte es trotzdem einige Zeit, bis wir die korrekten Befehle für ihn gefunden hatten. 
+
+
 ### Siebzehnte Informatikstunde 5.3. 2019
 
+In dieser Informatikstunde haben wir die Bewegungsbefehle für den Fuchs fertiggestellt. Anschließned ließ er sich mit den vier Pfeiltasten in alle Richtungen auf dem Canvas bewegen. 
+Außerdem haben wir heute eine Funktion eingebaut, dass der Fuchs an den Seiten zurückprallt. 
+
+
 ### Achtzehnte Informatikstunde 18.3. 2019
- 
+
+In den letzten Stunden ist der Informatikunterrricht leider ausgefallen. In der Zwischenzeit haben wir jedoch zu Hause weitergewarbeitet. Unter anderem haben wir endlich versucht unser sehr unübersichtliche Programmierung des Quizzes zu vereinfachen. Dies ist nach vielen gescheiterten und langen Versuchen dann auch geglückt. Durch das Einfügen von if- Schleifen und dem Auflösen der zahlreichen Verschachtelungen ist es uns gelungen, dass die Blogs sehr viel übersichtlicher wurden. 
+
+### Neunzehnte Informatikstunde, 25.03.2019
+
+
+
+### Zwanzigste Informatikstunde, 26.03.2019
+
+
+
+### Ausblick auf die weitere Arbeit
+
+### Rückblick auf besherige Arbeit 
+
