@@ -197,8 +197,16 @@ Und das Spiel an sich:
 
 ![bsp sc3](Bilder.exe/sc3.png)
 
+
+Wir werden aber den Timer nochmal optimieren müssen, da er zu früh anfängt, die Zeit runter zu zählen bzw. ab Sekunde 16 runterzählt.
+
 Außerdem haben wir das Quiz um 3 Fragen erweitert und noch nicht fertige Screens fertiggestellt. Unser Ziel ist es, mindestens 8 Fragen zu haben. So sehen sie zum Beispiel aus:
 
+![bsp sc4](Bilder.exe/sc4.png)
+
+![bsp sc5](Bilder.exe/sc5.png)
+
+![bsp sc6](Bilder.exe/sc6.png)
 
 ### Neunzehnte Informatikstunde, 25.03.2019
 
