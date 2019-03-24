@@ -180,7 +180,7 @@ komprimiert:
 
 ### zu Hause
 
-Am Wochenende haben Carolin und Janina weiter am Projekt gearbeitet. Wir haben es zum Beispiel geschafft, das Spiel fertig zu programmieren. Es funktioniert so, dass man 20 Sekunden Zeit um so oft wie möglich auf eine Plastikflasche zu klicken, die dabei ständig die Position ändert. Klickt man daneben, verliert man 1 Leben, wovon man 3 hat. Dazu ein paar Eindrücke:
+Am Wochenende haben Carolin und Janina weiter am Projekt gearbeitet. Wir haben es zum Beispiel geschafft, das Spiel fertig zu programmieren. Es funktioniert so, dass man 20 Sekunden Zeit hat, um so oft wie möglich auf eine Plastikflasche zu klicken, die dabei ständig die Position ändert. Klickt man daneben, verliert man 1 Leben, wovon man 3 hat. Dazu ein paar Eindrücke:
 
 
 Ein Teil der Programmierung:
@@ -196,6 +196,8 @@ Und das Spiel an sich:
 
 
 ![bsp sc3](Bilder.exe/sc3.png)
+
+Außerdem haben wir das Quiz um 3 Fragen erweitert und noch nicht fertige Screens fertiggestellt. Unser Ziel ist es, mindestens 8 Fragen zu haben. So sehen sie zum Beispiel aus:
 
 
 ### Neunzehnte Informatikstunde, 25.03.2019
