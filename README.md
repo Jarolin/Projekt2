@@ -178,6 +178,13 @@ komprimiert:
 ![bsp verein](Bilder.exe/verein.png)
 
 
+### zu Hause
+
+Am Wochenende haben Carolin und Janina weiter am Projekt gearbeitet. Wir haben es zum Beispiel geschafft, das Spiel fertig zu programmieren. Es funktioniert so, dass man 20 Sekunden Zeit um so oft wie möglich auf eine Plastikflasche zu klicken, die dabei ständig die Position ändert. Klickt man daneben, verliert man 1 Leben, wovon man 3 hat. Dazu ein paar Eindrücke:
+
+
+
+
 ### Neunzehnte Informatikstunde, 25.03.2019
 
 
