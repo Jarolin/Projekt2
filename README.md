@@ -167,7 +167,7 @@ Außerdem haben wir heute eine Funktion eingebaut, dass der Fuchs an den Seiten 
 
 ### Achtzehnte Informatikstunde 18.3. 2019
 
-In den letzten Stunden ist der Informatikunterrricht leider ausgefallen. In der Zwischenzeit haben wir jedoch zu Hause weitergewarbeitet. Unter anderem haben wir endlich versucht unser sehr unübersichtliche Programmierung des Quizzes zu vereinfachen. Dies ist nach vielen gescheiterten und langen Versuchen dann auch geglückt. Durch das Einfügen von if- Schleifen und dem Auflösen der zahlreichen Verschachtelungen ist es uns gelungen, dass die Blogs sehr viel übersichtlicher wurden. 
+In den letzten Stunden ist der Informatikunterrricht leider ausgefallen. In der Zwischenzeit haben wir jedoch zu Hause weitergearbeitet. Unter anderem haben wir endlich versucht unser sehr unübersichtliche Programmierung des Quizzes zu vereinfachen. Dies ist nach vielen gescheiterten und langen Versuchen dann auch geglückt. Durch das Einfügen von if- Schleifen und dem Auflösen der zahlreichen Verschachtelungen ist es uns gelungen, dass die Blogs sehr viel übersichtlicher wurden. 
 
 alte Verschachtelungen (noch viel mehr, hier nur kleiner Ausschnitt):
 ![bsp alt](Bilder.exe/alt.png)
@@ -207,6 +207,8 @@ Außerdem haben wir das Quiz um 3 Fragen erweitert und noch nicht fertige Screen
 ![bsp sc5](Bilder.exe/sc5.png)
 
 ![bsp sc6](Bilder.exe/sc6.png)
+
+Auch beim Quiz wollen wir noch einen  Score einbauen, zur Zeit versuchen wir das umszusetzen, aber bisher funktionietrt es nicht richtig.
 
 ### Neunzehnte Informatikstunde, 25.03.2019
 
