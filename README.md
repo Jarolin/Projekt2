@@ -6,7 +6,7 @@
 
 ## Inhaltsverzeichnis
 * [Informatikstunden ](#info)
-* [Erste Informatikstunde, 27.11.2018](#27.11)
+  * [Erste Informatikstunde, 27.11.2018](#27.11)
   * [Zweite Informatikstunde, 03.12.2018](#3.12)
   * [Dritte Informatikstunde, 11.12.2018](#11.12)
   * [Vierte Informatikstunde, 17.12.2018](#17.12)
@@ -14,7 +14,7 @@
   * [Sechste Informatikstunde, 08.01.2019](#8.1)
   * [Siebte Informatikstunde, 15.01.2019](#15.01)
   * [Achte Informatikstunde, 21.01.2019](#21.01)
-  * [Neunte Informatikstunde, 20.01.2019](#20.01)
+  * [Neunte Informatikstunde, 22.01.2019](#22.01)
   * [Zehnte Informatikstunde, 29.01.2019](#29.01)
   * [Elfte Informatikstunde, 04.02.2019](#4.02)
   * [Zwölfte Informatikstunde, 12.02.2019](#12.02)
@@ -30,7 +30,9 @@
 * [Ausblick auf die weitere Arbeit ](#ausblick)
 * [Rückblick auf bisherige Arbeit ](#rückblick)
 
-### Erste Informatikstunde, 27.11.18 <a name="27.11"></a>
+# Informatikstunden <a name="info"></a>
+
+### Erste Informatikstunde, 27.11.2018 <a name="27.11"></a>
 
 In der ersten Stunde hat Herr Buhl uns weitere Möglichkeiten für das Projekt für das zweite Halbjahr vorgeschlagen bzw. vorgestellt. 
 Zunächst haben wir überlegt, genau wie bei unsererm vorherigen Projekt, "App Inventor" zum Programmieren zu verwenden. Da wir jedoch beide ein Apple Smartphone und kein Android besitzen, wäre dies etwas unpraktisch. 
@@ -42,7 +44,7 @@ Wir haben uns den Aufbau des Programms angeschaut und bei den Blocks einige Ähn
 Interessant fanden wir ebenfalls die Möglichkeit bei AppLab Animationsfilme zu erstellen.
 
 
-### Zweite Informatikstunde, 03.12.18
+### Zweite Informatikstunde, 03.12.2018 <a name="3.12"></a>
 
 Zunächst haben wir unser zweites Projekt auf GitHub erstellt. Dazu haben wir eine neue Projektseite angelegt und begonnen,den neuen Stundenblock zu schreiben.
 Anschließend haben wir uns weiter mit AppLab vertraut gemacht. Desweiteren kamen uns erste Ideen für ein Projekt.
@@ -51,13 +53,13 @@ Wir haben bereits bei unserer vorherigen App bemerkt, dass uns beiden sehr wicht
 Somit kann man es nicht als "Zeitverschwendung" bezeichnen, das Produkt hinterher zu spielen, der einzelne Spieler nimmt etwas daraus mit, egal, ob es sich um das Erweitern von Wissen oder seine Persönlichkeitsentwicklung handelt. 
 
 
-### Dritte Informatikstunde, 11.12.18
+### Dritte Informatikstunde, 11.12.2018 <a name="11.12"></a>
 
 Heute haben wir unser erstes Projekt benotet zurückbekommen. Wir haben uns sehr darüber gefreut, dass unsere Arbeit so positive Rückmeldung bekam. Dies zeigt einem, dass es sich gelohnt hat, so viel Zeit und Mühe in das Informatikprojekt zu stecken. Außerdem motiviert es einen ebenfalls am neuen Projekt sehr engagiert zu arbeiten. 
 Im Zuge der Rückmeldungen zu unseren Projekten durften wir unser Projekt vor der Klasse präsentieren und vorstellen. Es hat uns sehr gefallen, dass wir auch einzelne andere Projekte von Mitschülern vorgestellt bekamen. Dies inspiriert einen und zeigt einem, wie unterschiedlich die Ergebnisse am Ende der Arbeitsphase doch geworden sind. Außerdem konnte man Differenzen des eigenen zu anderen Programmierprogrammen feststellen, was uns bei der Entscheidung bekräftigte, dass wir es bei dem zweiten Projekt mit dem für uns neuen Programm AppLab versuchen wollen. 
 Den Rest der Stunde haben wir weitere Ideen für unser neues Projekt gesammelt.
 
-### Vierte Informatikstunde, 17.12.18
+### Vierte Informatikstunde, 17.12.2018 <a name="17.12"></a>
 
 Heute haben wir leider beide beim Informatikunterricht gefehlt, Janina aufgrund von Krankheit, Carolin wegen eines Arztbesuches. Dennoch haben wir zu Hause weitergearbeitet. 
 Wir haben unter anderem den Blog der ersten Informatikstunden verbessert. 
@@ -65,7 +67,7 @@ Außerdem haben wir mit dem Gedanken gespielt, die Gestaltung einer Homepage als
 Auch möchte Carolin schon länger eine Homepage für ihre eigenen Kurzfilme erstellen, was sich mit dem Informatikprojekt verbinden lassen würde. 
 Dennoch haben wir uns letztendlich für das Erstellen einer App entschieden, da uns dies spannender erschien und Carolin nicht so gerne eine Art "Selbstdarstellung" als Schulprojekt machen wollte. ;)
 
-### Fünfte Informatikstunde, 18.12.18
+### Fünfte Informatikstunde, 18.12.2018 <a name="18.12"></a>
 
 Heute haben wir uns in App Lab versucht hinein zu arbeiten und dazu den potenziellen Startbildschirm für unsere App kreiert.
 
@@ -80,7 +82,7 @@ Die App ist somit eine Art "Spielplatz" für den Spieler, der sich in verschiede
 Für zu Hause nahmen wir uns vor, uns über die Ferien gedanken darüber zu machen und weiter an dem Design unserer App zu feilen. 
 
 
-### Sechste Informatikstunde, 08.01.2019
+### Sechste Informatikstunde, 08.01.2019 <a name="8.1"></a>
 
 Wir haben in der heutigen Informatikstunde den zweiten Screen erstellt, also das "Fuchsland". Man kommt dahin, indem man auf Screen1 auf den Button 1 ("ins Fuchsland") drückt. 
 
@@ -94,18 +96,18 @@ Unser Problem ist im Moment, dass wir nicht herausfinden, wie man in die if-Schl
 Auch die aktuell gefeierte 16-jährige Klimaaktivistin Greta Thunberg und die mit ihr verbundenen "FridaysForFuture" - Klimademonstrationen verhalfen uns zu der Idee für unsere App.
 Da unsere App als besondere Zielgruppe Kinder und Jugendliche haben soll, könnte sie dazu beitragen, dass sich noch mehr junge Leute der aktuellen Bewegung anschließen und so sensibel für das Thema werden, dass sie selber etwas dazu beitragen wollen. Damit wäre der bereits angesprochene Lerneffekt, der uns beiden wichtig ist, erfüllt.
 
-### Siebte Informatikstunde, 15.01.2019
+### Siebte Informatikstunde, 15.01.2019 <a name="15.01"></a>
 
 Da die letzte Stunde ausgefallen ist, haben wir uns zu Hause intensiv mit dem Projekt beschäftigt. Dabei ist uns aufgefallen, dass uns das Design von App Inventor doch besser gefällt. Damit haben wir unser vorheriges Informatikprojekt programmiert. 
 Zwar hatte App Inventor einige Nachteile, zum Beispiel dass wir unsere App nicht auf unseren iPhones ausprobieren konnten.
 Aber mit App Inventor haben wir sehr viel mehr Erfahrung und können eventuell auch erst mal vieles programmieren und später mit Hilfe von Personen mit einem Android Handy das Programmierte ausprobieren. 
 
 
-### Achte Informatikstunde, 21.01.2019
+### Achte Informatikstunde, 21.01.2019 <a name="21.01"></a>
 
 Heute haben wir nach einigen technischen Problemen auf App Inventor unser Projekt so weit übertragen, wie wir es bereits auf App Lab erstellt hatten. Unser einziges Problem ist, dass man auf App Inventor eine Grenze in der Anzahl von Screens hat. Für unsere Idee benötigen wir jedoch vorraussichtlich mehr als zehn verschiedene Screens. Wir hatten die Idee, dass man eventuell mehrere Canvas in einen Screen legt und die App so programmiert, dass die Canvas pro Screen gewechselt werden können. 
 
-### Neunte Informatikstunde, 22.01.2019
+### Neunte Informatikstunde, 22.01.2019 <a name="22.01"></a>
 
 In der heutigen Informatikstunde haben wir unsere Idee für unser Projekt konkretisiert. Der Fuchs soll weiterhin durch das Spiel leiten, jedoch hat unsere App nun ein spezielles Thema: Klimaschutz.
 Weiterhin soll es die verschiedenen Bereiche in der App geben. In der Spielebene wird ein Spiel gespielt, dessen Konzept wir uns noch genauer überlegen müssen. Dabei soll der Spieler jedoch virtuell "die Welt retten", zum Beispiel Müllstücke auffangen. In der Quizebene wartet ein Quiz auf den Spieler, in welchem er sein Wissen über den Klimaschutz testen kann. 
@@ -113,7 +115,7 @@ Dort werden Fragen zu den Ursachen, Konsequenzen und Möglichkeiten sich für da
 In der Testebene findet der Spieler einen Persönlichkeitstest, im dem er testen kann, ob er bereits genug für den Klimaschutz tut. 
 
 
-### Zehnte Informatikstunde, 29.01.2019
+### Zehnte Informatikstunde, 29.01.2019 <a name="29.01"></a>
 
 Wir haben momentan das Problem, dass wir unser Projekt sowohl auf AppLab begonnen haben, als auch auf AppInventor damit gestartet haben. 
 Da wir nun aber besser mit AppLab klar kommen und auch schon einige Blocks erstellen konnten, haben wir uns nun endgültig für AppLab entschieden. 
@@ -126,7 +128,7 @@ Hier die ersten Eindrücke von unseren Startscreens für die einzelnen Ebenen.
  ![bsp screenshot3](Bilder.exe/screenshot3.png)
  
  
- ### Elfte Informatikstunde, 04.02.2019
+ ### Elfte Informatikstunde, 04.02.2019 <a name="4.02"></a>
  
  
  Heute haben wir weiter an den einzelnen Screens garbeitet und uns dabei erstmal auf das Design und die Bezeichnungen für die verschiedenen Screens und Buttons konzentriert. Danach haben wir für die Quizebene drei Fragescreens erstellt, die um den Klimaschutz gehen. 
@@ -134,7 +136,7 @@ Hier die ersten Eindrücke von unseren Startscreens für die einzelnen Ebenen.
  Da morgen die Doppelstunde ausfällt, haben wir heute zudem zu Hause weiter an dem Projekt gearbeitet.
  
  
- ### Zwölfte Informatikstunde 12.02.2019
+ ### Zwölfte Informatikstunde 12.02.2019 <a name="12.02"></a>
  
  Aufgrund von Ausfall der Informatikstunden zuvor haben wir in der Zwischenzeit zu Hause an unserem Projekt weitergearbeitet. 
  Insbesondere am Design der Screens haben wir Veränderungen vorgenommen.
@@ -143,10 +145,9 @@ Dies wäre in der Bausteineansicht sehr viel leichter und übersichtlicher gewes
 Anschließend haben wir uns eine weitere Frage zum Klimawandel ausgedacht, das Design dieser erstellt und die notwendigen Befehle programmeirt. Wir haben uns ebenfalls den Erklärtext ausgedacht.
 
  
- 
 
  
- ### Dreizehnte Informatikstunde 19.02.2019
+ ### Dreizehnte Informatikstunde 19.02.2019 <a name="19.02"></a>
  
  Heute haben wir intensiv an unserem Projekt weitergearbeitet. Aufgrund der vielen verschiedenen Antwortmöglichkeiten und dem damit verbundenem Öffnen verschiedener Screens, ist unsere Programmierung etwas unübersichtlich geworden. 
 Somit haben wir etwas den Überblick verloren, welche Programmierungen und Buttons bereits funktionieren und welche noch nicht. 
@@ -156,7 +157,7 @@ Auch fehlte ab und zu eine einzelne Klammer, sodass der gesamte Befehl wirkungsl
 Am Ende der Stunde haben wir beinahe das gesamte Baumdiagramm fertig stellen können und in den bereits überprüften Pfaden alle Fehler beheben können. Die restlichen Pfade müssen wir nächste Stunde noch überprüfen.
  
  
- ### Vierzehnte Informatikstunde 25.02.2019
+ ### Vierzehnte Informatikstunde 25.02.2019 <a name="25.02"></a>
  
  In der heutigen Informatuikstunde haben wir mit dem Überprüfen der einzelnen Pfade weitergemacht. Jedoch ist uns aufgefallen, dass die Programmierung trotz am Ende vorhandener Funktionalität viel zu umständlich, kompliziert und unübersichtlich geworden ist. 
  Aus diesem Grund haben wir uns nach einem kurzen Beratungsgespräch mit Herr Buhl dazu entschlossen, dass wir versuchen wollen eine Lösung zu finden, sodass einzelne Befehle zusammengefasst werden können und diese vielen Pfade wegfallen. 
@@ -164,7 +165,7 @@ Am Ende der Stunde haben wir beinahe das gesamte Baumdiagramm fertig stellen kö
  Auch haben wir heute die Deadline für unser Projekt mit Herrn Buhl besprochen. Daraufhin haben wir uns einen Plan gemacht, was wir bis wann fertig haben möchten, damit wir das Projekt trotz unserer zahlreichen Klausuren und der Abiturvorbereitung rechtzeitig fertigstellen können.
  Auch haben wir darüber nachgedacht, ob es zeitlich machbar ist, alle drei geplanten Bereiche des Fuchslandes (Quiz, Test und Spiel) umzusetzen. Wir haben beschlossen, mindestens einen weiteren Bereich bis zur Abgabe fertig zu stellen. Sollte die Zeit reichen, werden wir ebenfalls den dritten Bereich erstellen. Zur Not würde der Bereich "Test" leider wegfallen.
  
- ### Fünfzente Indormatikstunde 26.02.2019
+ ### Fünfzente Indormatikstunde 26.02.2019 <a name="26.02"></a>
  
 Heute war Janina leider krank, weswegen Carolin alleine am Projekt weiterarbeiten musste. 
 Janina hat währenddessen zu Hauase weiter nach Lösungen gesucht um unsere Programmierung zu vereinfachen. 
@@ -176,7 +177,7 @@ Bei der Spielebene hatten wir uns bereits vorher überlegt, dass das Spiel ebenf
 eine mögliche konkrete Idee wäre beispielsweise das Müllfangen. Die Müllverschmutzung ist ein großes Problem unseres Planeten und ein wichtiger Punkt im Klimaschutz. Wenn man in einem Spiel eine Figur einzelne Müllteile fangen oder sammeln lässt und es dafür Belohnungen in Form von Punkten gibt, kann das eine positive Auswirkung auf die Psyche der Spieler haben. 
 Durch den Anreiz im Spiel werden sie für das Müllproblem sensibilisiert und achten unterbewusst im echten Leben darauf ihre Müllverschmutzung zu reduzieren oder Müll aufzusammeln. So können durch das Spiel spielerisch wichtige Werte vermittelt werden, die ihm einen Sinn geben und unserer Welt zu Gute kommen. 
 
-### Sechzehnte Informatikstunde 4.3.2019
+### Sechzehnte Informatikstunde 04.03.2019 <a name="4.03"></a>
 
 In dieser Informatikstunde haben wir uns intensiv mit der zweiten Ebene unserer App, dem Spiel, beschäftigt. Zu Hause hatten wir uns beide bereits darüber informiert, mit welchen Befehlen man eine Spielfigur steuern kann.
 Bei unserem vorherigen Projekt auf AppInventor hatten wir ebenfalls eine sich bewegende Spielfigur, jedoch geschah das dort mit anderen Befehlen. 
@@ -187,13 +188,13 @@ Uns kam die Idee, dass man ein Bild aus dem Internet mit Hilfe alternativer Apps
 Wir fügten unseren Fuchs in dieser Stunde das Programm ein, jedoch dauerte es trotzdem einige Zeit, bis wir die korrekten Befehle für ihn gefunden hatten. 
 
 
-### Siebzehnte Informatikstunde 5.3. 2019
+### Siebzehnte Informatikstunde 05.03.2019 <a name="5.03"></a>
 
 In dieser Informatikstunde haben wir die Bewegungsbefehle für den Fuchs fertiggestellt. Anschließend ließ er sich mit den vier Pfeiltasten in alle Richtungen auf dem Canvas bewegen. 
 Außerdem haben wir heute eine Funktion eingebaut, dass der Fuchs an den Seiten zurückprallt. 
 
 
-### Achtzehnte Informatikstunde 18.3. 2019
+### Achtzehnte Informatikstunde 18.03.2019 <a name="18.03"></a>
 
 In den letzten Stunden ist der Informatikunterrricht leider ausgefallen. In der Zwischenzeit haben wir jedoch zu Hause weitergearbeitet. Unter anderem haben wir endlich versucht unser sehr unübersichtliche Programmierung des Quizzes zu vereinfachen. Dies ist nach vielen gescheiterten und langen Versuchen dann auch geglückt. Durch das Einfügen von if- Schleifen und dem Auflösen der zahlreichen Verschachtelungen ist es uns gelungen, dass die Blogs sehr viel übersichtlicher wurden. 
 
@@ -206,7 +207,7 @@ komprimiert:
 ![bsp verein](Bilder.exe/verein.png)
 
 
-### zu Hause
+### zu Hause <a name="hause"></a>
 
 Am Wochenende haben Carolin und Janina weiter am Projekt gearbeitet. Wir haben es zum Beispiel geschafft, das Spiel fertig zu programmieren. Es funktioniert so, dass man 20 Sekunden Zeit hat, um so oft wie möglich auf eine Plastikflasche zu klicken, die dabei ständig die Position ändert. Klickt man daneben, verliert man 1 Leben, wovon man 3 hat. Dazu ein paar Eindrücke:
 
@@ -238,7 +239,7 @@ Außerdem haben wir das Quiz um 3 Fragen erweitert und noch nicht fertige Screen
 
 Auch beim Quiz wollen wir noch einen Score einbauen, daran arbeiten wir gerade. Unser Ziel ist es, dass die richtigen Antworten kontinuierlich gezählt werden und der Spieler am Ende das Gesamtergebnis angezeigt bekommt. 
 
-### Neunzehnte Informatikstunde, 25.03.2019
+### Neunzehnte Informatikstunde, 25.03.2019 <a name="25.03"></a>
 
 Heute haben wir unseren Stundenblog nochmal überarbeitet, da wir diesen morgen abgeben müssen. Wir haben noch ein paar Screenshots eingefügt, die unsere Worte veranschaulichen.
 Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet. 
@@ -246,11 +247,11 @@ Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet.
 ![bsp sc7](Bilder.exe/sc7.png)
 
 
-### Zwanzigste Informatikstunde, 26.03.2019
+### Zwanzigste Informatikstunde, 26.03.2019 <a name="26.03"></a>
 
 
 
-### Ausblick auf die weitere Arbeit
+### Ausblick auf die weitere Arbeit <a name="ausblick"></a>
 
 - noch testebene
 
@@ -259,7 +260,7 @@ Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet.
 
 
 
-### Rückblick auf bisherige Arbeit 
+### Rückblick auf bisherige Arbeit  <a name="rückblick"></a>
 
 Auch wenn unser Projekt zu diesem Zeitpunkt noch nicht abgeschlossen ist, können wir sagen, dass uns die Arbeit wie bereits letztes Mal sehr viel Spaß gebracht hat. 
 Wir waren überrascht davon, dass es wider Erwaten doch sehr lange gedauert hat, sich in das neue Programm AppLab hineinzufinden. 
