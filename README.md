@@ -208,10 +208,12 @@ Außerdem haben wir das Quiz um 3 Fragen erweitert und noch nicht fertige Screen
 
 ![bsp sc6](Bilder.exe/sc6.png)
 
-Auch beim Quiz wollen wir noch einen  Score einbauen, zur Zeit versuchen wir das umszusetzen, aber bisher funktionietrt es nicht richtig.
+Auch beim Quiz wollen wir noch einen Score einbauen, daran arbeiten wir gerade. Unser Ziel ist es, dass die richtigen Antworten kontinuierlich gezählt werden und der Spieler am Ende das Gesamtergebnis angezeigt bekommt. 
 
 ### Neunzehnte Informatikstunde, 25.03.2019
 
+Heute haben wir unseren Stundenblog nochmal überarbeitet, da wir diesen morgen abgeben müssen. Wir haben noch ein paar Screenshots eingefügt, die unsere Worte veranschaulichen.
+Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet. 
 
 
 ### Zwanzigste Informatikstunde, 26.03.2019
@@ -227,7 +229,7 @@ Auch beim Quiz wollen wir noch einen  Score einbauen, zur Zeit versuchen wir das
 
 
 
-### Rückblick auf besherige Arbeit 
+### Rückblick auf bisherige Arbeit 
 
 Auch wenn unser Projekt zu diesem Zeitpunkt noch nicht abgeschlossen ist, können wir sagen, dass uns die Arbeit wie bereits letztes Mal sehr viel Spaß gebracht hat. 
 Wir waren überrascht davon, dass es wider Erwaten doch sehr lange gedauert hat, sich in das neue Programm AppLab hineinzufinden. 
