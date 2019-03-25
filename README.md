@@ -215,6 +215,8 @@ Auch beim Quiz wollen wir noch einen Score einbauen, daran arbeiten wir gerade. 
 Heute haben wir unseren Stundenblog nochmal überarbeitet, da wir diesen morgen abgeben müssen. Wir haben noch ein paar Screenshots eingefügt, die unsere Worte veranschaulichen.
 Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet. 
 
+![bsp sc7](Bilder.exe/sc7.png)
+
 
 ### Zwanzigste Informatikstunde, 26.03.2019
 
