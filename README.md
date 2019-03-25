@@ -2,8 +2,6 @@
 
 # Blog
 
-### Inhaltsverzeichnis
-
 ## Inhaltsverzeichnis
 * [Informatikstunden ](#info)
   * [Erste Informatikstunde, 27.11.2018](#27.11)
@@ -30,7 +28,7 @@
 * [Ausblick auf die weitere Arbeit ](#ausblick)
 * [Rückblick auf bisherige Arbeit ](#rückblick)
 
-# Informatikstunden <a name="info"></a>
+## Informatikstunden <a name="info"></a>
 
 ### Erste Informatikstunde, 27.11.2018 <a name="27.11"></a>
 
