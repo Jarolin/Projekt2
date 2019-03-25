@@ -2,7 +2,20 @@
 
 # Blog
 
-### Erste Informatikstunde, 27.11.18
+### Inhaltsverzeichnis
+
+## Inhaltsverzeichnis
+* [Erste Informatikstunde, 27.11.18](#27.11)
+  * [Die Intention des Spiels](#Intention)
+* [Das Spiel selber programmieren](#dssp)
+  * [MIT App Inventor](#ai)
+  * [Erste Schritte](#ErsteSchritte)
+  * [Das Hasen-Spiel programmieren](#DasHasenSpiel)
+  * [Die Fragen](#Fragen)
+  * [weitere Screens](#weitere)
+
+
+### Erste Informatikstunde, 27.11.18 
 
 In der ersten Stunde hat Herr Buhl uns weitere Möglichkeiten für das Projekt für das zweite Halbjahr vorgeschlagen bzw. vorgestellt. 
 Zunächst haben wir überlegt, genau wie bei unsererm vorherigen Projekt, "App Inventor" zum Programmieren zu verwenden. Da wir jedoch beide ein Apple Smartphone und kein Android besitzen, wäre dies etwas unpraktisch. 
