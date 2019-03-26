@@ -22,7 +22,6 @@
   * [Sechzehnte Informatikstunde, 04.03.2019](#4.03)
   * [Siebzehnte Informatikstunde, 05.03.2019](#5.03)
   * [Achzehnte Informatikstunde, 18.03.2019](#18.03)
-  * [zu Hause ](#hause)
   * [Neunzehnte Informatikstunde, 25.03.2019](#25.03)
   * [Zwanzigste Informatikstunde, 26.03.2019](#26.03)
 * [Ausblick auf die weitere Arbeit ](#ausblick)
@@ -149,15 +148,15 @@ Hier die ersten Eindrücke von unseren Startscreens für die einzelnen Ebenen.
  ### Elfte Informatikstunde, 04.02.2019 <a name="4.02"></a>
  
  
- Heute haben wir weiter an den einzelnen Screens garbeitet und uns dabei erstmal auf das Design und die Bezeichnungen für die verschiedenen Screens und Buttons konzentriert. Danach haben wir für die Quizebene drei Fragescreens erstellt, die um den Klimaschutz gehen. 
+Heute haben wir weiter an den einzelnen Screens garbeitet und uns dabei erstmal auf das Design und die Bezeichnungen für die verschiedenen Screens und Buttons konzentriert. Danach haben wir für die Quizebene drei Fragescreens erstellt, die um den Klimaschutz gehen. 
  
  Da morgen die Doppelstunde ausfällt, haben wir heute zudem zu Hause weiter an dem Projekt gearbeitet.
  
  
  ### Zwölfte Informatikstunde 12.02.2019 <a name="12.02"></a>
  
- Aufgrund von Ausfall der Informatikstunden zuvor haben wir in der Zwischenzeit zu Hause an unserem Projekt weitergearbeitet. 
- Insbesondere am Design der Screens haben wir Veränderungen vorgenommen.
+Aufgrund von Ausfall der Informatikstunden zuvor haben wir in der Zwischenzeit zu Hause an unserem Projekt weitergearbeitet. 
+Insbesondere am Design der Screens haben wir Veränderungen vorgenommen.
 Zu Beginn der zwölften Informatikstunde ließ sich aufgrund von Fehlern im Code nicht mehr von der Textansicht zur Bausteineansicht wechseln. Somit mussten wir zunächst versuchen, den Fehler zu finden und zu korrigieren. 
 Dies wäre in der Bausteineansicht sehr viel leichter und übersichtlicher gewesen und es kostete Zeit, bis wir ein paar einzelne Klammern so verändert hatten, dass das Programm sich wieder umschalten ließ. 
 Anschließend haben wir uns eine weitere Frage zum Klimawandel ausgedacht, das Design dieser erstellt und die notwendigen Befehle programmeirt. Wir haben uns ebenfalls den Erklärtext ausgedacht.
@@ -177,20 +176,23 @@ Am Ende der Stunde haben wir beinahe das gesamte Baumdiagramm fertig stellen kö
  
  ### Vierzehnte Informatikstunde 25.02.2019 <a name="25.02"></a>
  
- In der heutigen Informatuikstunde haben wir mit dem Überprüfen der einzelnen Pfade weitergemacht. Jedoch ist uns aufgefallen, dass die Programmierung trotz am Ende vorhandener Funktionalität viel zu umständlich, kompliziert und unübersichtlich geworden ist. 
- Aus diesem Grund haben wir uns nach einem kurzen Beratungsgespräch mit Herr Buhl dazu entschlossen, dass wir versuchen wollen eine Lösung zu finden, sodass einzelne Befehle zusammengefasst werden können und diese vielen Pfade wegfallen. 
- Zu Hause möchten wir uns mit Hilfe von Tutorials darüber informieren, ob und inwiefern  dies möglioch ist. 
- Auch haben wir heute die Deadline für unser Projekt mit Herrn Buhl besprochen. Daraufhin haben wir uns einen Plan gemacht, was wir bis wann fertig haben möchten, damit wir das Projekt trotz unserer zahlreichen Klausuren und der Abiturvorbereitung rechtzeitig fertigstellen können.
- Auch haben wir darüber nachgedacht, ob es zeitlich machbar ist, alle drei geplanten Bereiche des Fuchslandes (Quiz, Test und Spiel) umzusetzen. Wir haben beschlossen, mindestens einen weiteren Bereich bis zur Abgabe fertig zu stellen. Sollte die Zeit reichen, werden wir ebenfalls den dritten Bereich erstellen. Zur Not würde der Bereich "Test" leider wegfallen.
+In der heutigen Informatuikstunde haben wir mit dem Überprüfen der einzelnen Pfade weitergemacht. Jedoch ist uns aufgefallen, dass die Programmierung trotz am Ende vorhandener Funktionalität viel zu umständlich, kompliziert und unübersichtlich geworden ist. 
+Aus diesem Grund haben wir uns nach einem kurzen Beratungsgespräch mit Herr Buhl dazu entschlossen, dass wir versuchen wollen eine Lösung zu finden, sodass einzelne Befehle zusammengefasst werden können und diese vielen Pfade wegfallen. 
+
+Zu Hause möchten wir uns mit Hilfe von Tutorials darüber informieren, ob und inwiefern  dies möglioch ist.  Auch haben wir heute die Deadline für unser Projekt mit Herrn Buhl besprochen. Daraufhin haben wir uns einen Plan gemacht, was wir bis wann fertig haben möchten, damit wir das Projekt trotz unserer zahlreichen Klausuren und der Abiturvorbereitung rechtzeitig fertigstellen können.
+Auch haben wir darüber nachgedacht, ob es zeitlich machbar ist, alle drei geplanten Bereiche des Fuchslandes (Quiz, Test und Spiel) umzusetzen. Wir haben beschlossen, mindestens einen weiteren Bereich bis zur Abgabe des Projekts fertig zu stellen. 
+Sollte die Zeit reichen, werden wir ebenfalls den dritten Bereich erstellen. Zur Not würde der Bereich "Test" leider wegfallen.
  
  ### Fünfzente Indormatikstunde 26.02.2019 <a name="26.02"></a>
  
 Heute war Janina leider krank, weswegen Carolin alleine am Projekt weiterarbeiten musste. 
-Janina hat währenddessen zu Hauase weiter nach Lösungen gesucht um unsere Programmierung zu vereinfachen. 
+Janina hat währenddessen zu Hause weiter nach Lösungen gesucht um unsere Programmierung zu vereinfachen. 
+
 Carolin hat ihre Zeit in der heutigen Doppelstunde der schriftlichen Dokumentierung der letzten beiden Stunden gewidmet und an unserem Projektblog weitergearbeitet.
 Außerdem hat sie mit der Gestaltung der Projektseite weitergemacht und dort schonmal den Aufbau unserer App, die Idee dahinter und ihre Intention erklärt.
- Des Weiteren hat Carolin sich Gedanken über den zweiten Bereich unserer App, der Spielebene gemacht. 
- Bis jetzt haben wir sehr viel Zeit in das Programmieren des Quizzes gesteckt, was sich aufgrund der verschiedenen Erklärtexte usw. als komplizierter als zunächst gedacht erwies. 
+Des Weiteren hat Carolin sich Gedanken über den zweiten Bereich unserer App, der Spielebene gemacht. 
+Bis jetzt haben wir sehr viel Zeit in das Programmieren des Quizzes gesteckt, was sich aufgrund der verschiedenen Erklärtexte usw. als komplizierter als zunächst gedacht erwies. 
+
 Bei der Spielebene hatten wir uns bereits vorher überlegt, dass das Spiel ebenfalls klimaschutzbezogen sein soll.
 eine mögliche konkrete Idee wäre beispielsweise das Müllfangen. Die Müllverschmutzung ist ein großes Problem unseres Planeten und ein wichtiger Punkt im Klimaschutz. Wenn man in einem Spiel eine Figur einzelne Müllteile fangen oder sammeln lässt und es dafür Belohnungen in Form von Punkten gibt, kann das eine positive Auswirkung auf die Psyche der Spieler haben. 
 Durch den Anreiz im Spiel werden sie für das Müllproblem sensibilisiert und achten unterbewusst im echten Leben darauf ihre Müllverschmutzung zu reduzieren oder Müll aufzusammeln. So können durch das Spiel spielerisch wichtige Werte vermittelt werden, die ihm einen Sinn geben und unserer Welt zu Gute kommen. 
@@ -210,11 +212,25 @@ Wir fügten unseren Fuchs in dieser Stunde das Programm ein, jedoch dauerte es t
 
 In dieser Informatikstunde haben wir die Bewegungsbefehle für den Fuchs fertiggestellt. Anschließend ließ er sich mit den vier Pfeiltasten in alle Richtungen auf dem Canvas bewegen. 
 Außerdem haben wir heute eine Funktion eingebaut, dass der Fuchs an den Seiten zurückprallt. 
+Wir haben uns dafür entschieden, dass der Fuchs doch kein Teil des  Spiels sein soll, sondern in der Testebene auftauchen soll. 
+Seine genaue Funktion dort erläutern wir in dem Ausblick auf unsere weitere Arbeit, da wir uns zunächst auf das Spiel konzentrieren möchten.
+
+Die Entscheidung den sich bewegenden Fuchs aus der Spielebe herauszunehmen hängt damit zusammen, dass wir die Idee für unser Spiel etwas umgeändert haben. 
+Weiterhin sollen Müllobjekte gesammelt werden, jedoch nun in Form eines "Clicker Spiels."
+Dieses haben wir in der Stunde begonnen zu programmieren und zu Hause damit weitergemacht. 
+Auf dem Screen befindet sich eine Plastikflasche, die dadurch "eingesammelt" wird, dass der Spieler sie mit der Maus anklickt. Sie taucht nach erfolgreichem Klicken an einer anderen Position wieder auf. Ziel ist es die Flasche in einer bestimmten Zeit 10 Mal anzuklicken. Den Timer dafür müssen wir jedoch noch programmieren. 
+Für jedes korrekte Anklicken bekommt man einen Punkt, beim Erreichen von 10 Punkten wird man auf einen "Gewonnen"-Screen weitergeleitet.
+Diesen Score- Zähler haben wir nach anfänglichen Schwierigkeiten geschafft einzubauen:
+
+
+
+Ebenfalls haben wir einen Zähler eingebaut, der die verlorenen Leben anzeigt. Anfangs soll der Spieler 3 Leben haben, bei jedem Danebenklicken eines verlieren. Wie das funktioniert war sehr schwierig herauszufinden. Schließlich hatten wir die Idee einen großen Button als Hintergrund zu verwenden und in diesen unser Hintergrundbild einzufügen. 
+Somit hat das Installieren des Leben-Zählers dann zum Glück geklappt.  
 
 
 ### Achtzehnte Informatikstunde 18.03.2019 <a name="18.03"></a>
 
-In den letzten Stunden ist der Informatikunterrricht leider ausgefallen. In der Zwischenzeit haben wir jedoch zu Hause weitergearbeitet. Unter anderem haben wir endlich versucht unser sehr unübersichtliche Programmierung des Quizzes zu vereinfachen. Dies ist nach vielen gescheiterten und langen Versuchen dann auch geglückt. Durch das Einfügen von if- Schleifen und dem Auflösen der zahlreichen Verschachtelungen ist es uns gelungen, dass die Blogs sehr viel übersichtlicher wurden. 
+In den letzten Stunden ist der Informatikunterrricht leider ausgefallen. In der Zwischenzeit haben wir jedoch zu Hause noch mehr weitergearbeitet. Unter anderem haben wir endlich versucht unser sehr unübersichtliche Programmierung des Quizzes zu vereinfachen. Dies ist nach vielen gescheiterten und langen Versuchen dann auch geglückt. Durch das Einfügen von if- Schleifen und dem Auflösen der zahlreichen Verschachtelungen ist es uns gelungen, dass die Blogs sehr viel übersichtlicher wurden. 
 
 alte Verschachtelungen (noch viel mehr, hier nur kleiner Ausschnitt):
 ![bsp alt](Bilder.exe/alt.png)
@@ -225,12 +241,14 @@ komprimiert:
 ![bsp verein](Bilder.exe/verein.png)
 
 
-### zu Hause <a name="hause"></a>
 
-Am Wochenende haben Carolin und Janina weiter am Projekt gearbeitet. Wir haben es zum Beispiel geschafft, das Spiel fertig zu programmieren. Es funktioniert so, dass man 20 Sekunden Zeit hat, um so oft wie möglich auf eine Plastikflasche zu klicken, die dabei ständig die Position ändert. Klickt man daneben, verliert man 1 Leben, wovon man 3 hat. Dazu ein paar Eindrücke:
+Wir haben es auch geschafft das Spiel fertig zu programmieren, indem wir einen Timer hinzugefügt haben. Er funktioniert so, dass man nur 20 Sekunden Zeit hat, um 10 Mal auf die Plastikflasche zu klicken, die dabei ständig die Position ändert. Schafft man dies, hat man gewonnen. Falls der Timer vorher abläuft oder man alle Leben verliert, wird man auf den "Verloren"-Screen weitergeleitet.
+Das Einbauen des Timers war sehr aufwendig, da wir dafür nirgendwo Erklärungen gefunden haben und es somit durch Ausprobieren herauskriegen mussten.
+Anfangs funktionierte es nicht, was unter anderem daran lag, dass wir den Timer an einer anderen Stelle in die Programmierung hätten einfügen müssen. Diese minimal verschiedene Platzierung des Timers machte einen enormen Unterschied.
 
+Des Weitern mussten wir hinbekommen, dass der Timer bei Neuspielen des Spiel zurückgesetzt wird und wieder bei 20 Sekunden beginnt.
 
-Ein Teil der Programmierung:
+Hier ein paar Eindrücke unseres Spiels.
 
 
 ![bsp sc1](Bilder.exe/sc1.png)
@@ -260,33 +278,38 @@ Auch beim Quiz wollen wir noch einen Score einbauen, daran arbeiten wir gerade. 
 ### Neunzehnte Informatikstunde, 25.03.2019 <a name="25.03"></a>
 
 Heute haben wir unseren Stundenblog nochmal überarbeitet, da wir diesen morgen abgeben müssen. Wir haben noch ein paar Screenshots eingefügt, die unsere Worte veranschaulichen.
-Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet. 
+Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet. Diesen haben wir bereits bei den ersten Screens des Quizzes eingebaut und er funktioniert.
 
 ![bsp sc7](Bilder.exe/sc7.png)
 
 
 ### Zwanzigste Informatikstunde, 26.03.2019 <a name="26.03"></a>
 
-Heute haben wir die le
+Heute haben wir weiterhin auf AppLab an unserem Projekt gearbeitet. Wir haben den Score bei weiteren Screens der Quisebene ergänzt. Außerdem haben wir uns konkrete Gedanken über die Programmierung der Testebene gemacht und schon Fragen überlegt, sowie über möglicherweise verwendbare Blogs nachgedacht. Weiteres über die Testebene erklären wir dem Ausblick auf die weitere Arbeit.
+
+Außerdem haben wir in der heutigen Informatikstunde unseren Stundenblog nocheinmal überarbeitet und einen Ausblick auf die weitere Arbeit gegeben, sowie den Rückblick auf unsere bisherige Arbeit geschrieben.
 
 ### Ausblick auf die weitere Arbeit <a name="ausblick"></a>
 
 Da wir unseren Stundenblock bereits heute abgeben müssen, wird in diesem nur unsere Arbeit bis zur heutigen Stunde dokumentiert sein. 
 Jedoch haben wir für unser Projekt noch etwas länger Zeit, weswegen es noch einige Veränderungen unserer App geben wird.
 An dieser Stelle möchten wir deshalb über unser weiteres Vorgehen berichten. 
-Wie bereits erwähnt konnten wir die Spielebene des Fuchslandes bereit komplett fertigstellen. 
+
+Wie bereits erwähnt, konnten wir die Spielebene des Fuchslandes bereits komplett fertigstellen. 
 Auch der Quizteil ist beinahe fertig. Dort wollen wir nur noch ein oder zwei Fragen ergänzen. 
-Die Punkte werden auf den ersten Screens bereits gezählt, diesen "Score-Zähler" müssen wir noch auf den übrigen Screens installieren. Am Ende soll die Anzahl der richtigen Antworten dem Spieler angezeigt werden. 
-In der Testebene fehlen uns ebenfalls noch einige Dinge.
-Wir haben bereits das Design und den Fuchs als Spielfigur, der sich in der Testebene durch betätigen der Pfeiltasten in alle Richtungen bewegen kann. 
+Die Punkte des Quizs werden auf den ersten Screens bereits gezählt, diesen "Score-Zähler" müssen wir noch auf den übrigen Screens installieren. Am Ende soll die Anzahl der richtigen Antworten dem Spieler angezeigt werden. 
+
+In der Testebene fehlt uns noch am Meisten.
+Wir haben bereits das Design erstellt und den Fuchs als Spielfigur, der sich in der Testebene durch betätigen der Pfeiltasten des Computers in alle Richtungen bewegen kann. 
 Unser Ziel ist es in jeden Screen jeweils drei verschiedene Bilder einzufügen, sowie eine Frage. 
+
 Beispielsweise wird gefragt, welches Verkehrsmittel der Spieler meistens benutzt.
-Zur Auswahl sind ein Bild von einem Auto, ein Bus und ein Fahrrad.
-Der Spieler muss den Fuchs mit den Pfeiltasten dorthin steuern, was seiner Meinung nach am Besten auf ihn zutrifft.
-Je nach Antwort werden dem Spieler verschieden viele Punkte zugeteilt. Antwortet er umweltfreundlich, wird kein Punkt auf sein Punktekonto addiert. Antwortet er die mittlere Antwort wird ein Punkt addiert, wird eine umweltschädliche Antwort ausgewählt werden 2 Punkte ausgewählt.
+Zur Auswahl sind ein Bild von einem Auto, ein Busbild und ein Fahrradbild.
+Der Spieler muss den Fuchs mit den Pfeiltasten zu dem Bild steuern, welches seiner Meinung nach am Besten auf ihn zutrifft.
+Je nach Antwort werden dem Spieler verschieden viele Punkte zugeteilt. 
+Antwortet er umweltfreundlich, wird kein Punkt auf sein Punktekonto addiert. Antwortet er die "mittlere Antwort" wird ein Punkt addiert, wird eine umweltschädliche Antwort ausgewählt werden 2 Punkte ausgewählt.
 Am Ende der Testebene kann der Spieler anhand seiner erreichten Punkte herausfinden, in welchem Bereich er gelandet ist. 
 Des Weiteren hat er die Option sich durch das Klicken auf verschiedene Bilder über Optionen zu informieren, wie er persönlich etwas gegen den Klimawandel und für den Umweltschutz unternehmen kann.
-
 
 
 ### Rückblick auf bisherige Arbeit  <a name="rückblick"></a>
@@ -301,6 +324,7 @@ Unseren Erfahrungen nach kann man auf AppInventor sehr gut Spiele entwickeln, be
 Des Weiteren gibt es bei AppLab kein ScreenLimit, sodass sich dieses Programm besonders gut für das Programmieren von beispielsweise Quizapps eignet. 
 
 Insgesamt sind wir sehr froh, dass wir unser zweites Projekt mit einem neuen Programm gemacht haben, da man so seine Kenntnisse im Programmieren erweitern und dazulernen konnte. 
+Wir haben erneut gemerkt, dass Programmieren eine Herausforderung ist. Uns fiel auf, dass wir einen Ehrgeiz entwickelt hatten bestimmte Dinge selber herauszufinden, weswegen wir bei Problemen nie direkt nach Hilfestellung fragten, sondern versuchten sie eigenständig zu lösen.
 
 Auch sind wir dankbar, dass wir durch den Informatikunterricht in der Schule überhaupt mit dem Programmieren in Berührung kommen konnten. Ehrlich gesagt müssen wir zugeben, dass wir vor der zwölften Klasse ein sehr falsches Bild von Informatik hatten. 
 Die Projekte haben uns gezeigt, dass dies keineswegs nur etwas für Computerfreaks ist. 
