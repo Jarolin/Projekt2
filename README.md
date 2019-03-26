@@ -44,7 +44,14 @@ Interessant fanden wir ebenfalls die Möglichkeit bei AppLab Animationsfilme zu 
 ### Zweite Informatikstunde, 03.12.2018 <a name="3.12"></a>
 
 Zunächst haben wir unser zweites Projekt auf GitHub erstellt. Dazu haben wir eine neue Projektseite angelegt und begonnen,den neuen Stundenblock zu schreiben.
-Anschließend haben wir uns weiter mit AppLab vertraut gemacht. Des Weiteren kamen uns erste Ideen für ein Projekt.
+Anschließend haben wir uns weiter mit AppLab vertraut gemacht. 
+Wir haben entdeckt, dass AppLab speziell für Schüler einige kostenlose englische Online Kurse bereit stellt, auf denen man das Programmieren lernen kann. 
+Anschließend haben wir in ein paar Kurse hineingeschaut. Jedoch fingen diese beinahe ganz von vorne beim Programmieren an und man konnte keine Level überspringen. Das war etwas schade, da wir durch unser letztes Projekt bereits Vorkenntnisse haben und es so anfangs sehr einfach war. 
+Wir denken aber, dass die höheren Level einem beim Hineinfinden in AppLab zur Hilfe gekommen wären. 
+
+![bsp kurs](Bilder.exe/kurs.png)
+
+Des Weiteren kamen uns erste Ideen für ein Projekt.
 Eventuell wollen wir eine Wissensapp erstellen, allerdings sind wir uns da noch nicht einig.
 Wir haben bereits bei unserer vorherigen App bemerkt, dass uns beiden sehr wichtig ist, dass Apps nicht ausschließlich zum Spaß haben existieren. 
 Neben dem Spaßfaktor sollte der Spieler unserer Ansicht nach auch etwas daraus lernen. 
@@ -67,6 +74,9 @@ Wir haben unter anderem den Blog der ersten Informatikstunden verbessert.
 Außerdem haben wir mit dem Gedanken gespielt, die Gestaltung einer Homepage als neues Projekt zu wählen. 
 Dafür würde sprechen, dass uns dies im späteren Leben ebenfalls zu Gute kommen könnte, beispielsweise wenn wir selbstständig werden möchten.
 Auch möchte Carolin schon länger eine Homepage für ihre eigenen Kurzfilme erstellen, was sich mit dem Informatikprojekt verbinden lassen würde. 
+Wir haben uns über Programme informiert, mit denen man gut Homepages herstellen kann. 
+
+
 Dennoch haben wir uns letztendlich doch dagegen und für das Erstellen einer App entschieden, da uns dies spannender erschien und Carolin nicht so gerne eine Art "Selbstdarstellung" als Schulprojekt machen wollte. ;)
 
 ### Fünfte Informatikstunde, 18.12.2018 <a name="18.12"></a>
