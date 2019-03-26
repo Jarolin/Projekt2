@@ -45,25 +45,30 @@ Interessant fanden wir ebenfalls die Möglichkeit bei AppLab Animationsfilme zu 
 ### Zweite Informatikstunde, 03.12.2018 <a name="3.12"></a>
 
 Zunächst haben wir unser zweites Projekt auf GitHub erstellt. Dazu haben wir eine neue Projektseite angelegt und begonnen,den neuen Stundenblock zu schreiben.
-Anschließend haben wir uns weiter mit AppLab vertraut gemacht. Desweiteren kamen uns erste Ideen für ein Projekt.
+Anschließend haben wir uns weiter mit AppLab vertraut gemacht. Des Weiteren kamen uns erste Ideen für ein Projekt.
 Eventuell wollen wir eine Wissensapp erstellen, allerdings sind wir uns da noch nicht einig.
-Wir haben bereits bei unserer vorherigen App bemerkt, dass uns beiden sehr wichtig ist, dass Apps nicht ausschließlich zum Spaßhaben existieren. Neben dem Spaßfaktor sollte der Spieler unserer Ansicht nach auch etwas daraus lernen. 
-Somit kann man es nicht als "Zeitverschwendung" bezeichnen, das Produkt hinterher zu spielen, der einzelne Spieler nimmt etwas daraus mit, egal, ob es sich um das Erweitern von Wissen oder seine Persönlichkeitsentwicklung handelt. 
+Wir haben bereits bei unserer vorherigen App bemerkt, dass uns beiden sehr wichtig ist, dass Apps nicht ausschließlich zum Spaß haben existieren. 
+Neben dem Spaßfaktor sollte der Spieler unserer Ansicht nach auch etwas daraus lernen. 
+Somit können Kritiker es nicht als "Zeitverschwendung" bezeichnen das Produkt hinterher zu spielen, der einzelne Spieler nimmt etwas daraus mit, egal, ob es sich um das Erweitern von Wissen oder seine Persönlichkeitsentwicklung handelt. 
 
 
 ### Dritte Informatikstunde, 11.12.2018 <a name="11.12"></a>
 
-Heute haben wir unser erstes Projekt benotet zurückbekommen. Wir haben uns sehr darüber gefreut, dass unsere Arbeit so positive Rückmeldung bekam. Dies zeigt einem, dass es sich gelohnt hat, so viel Zeit und Mühe in das Informatikprojekt zu stecken. Außerdem motiviert es einen ebenfalls am neuen Projekt sehr engagiert zu arbeiten. 
-Im Zuge der Rückmeldungen zu unseren Projekten durften wir unser Projekt vor der Klasse präsentieren und vorstellen. Es hat uns sehr gefallen, dass wir auch einzelne andere Projekte von Mitschülern vorgestellt bekamen. Dies inspiriert einen und zeigt einem, wie unterschiedlich die Ergebnisse am Ende der Arbeitsphase doch geworden sind. Außerdem konnte man Differenzen des eigenen zu anderen Programmierprogrammen feststellen, was uns bei der Entscheidung bekräftigte, dass wir es bei dem zweiten Projekt mit dem für uns neuen Programm AppLab versuchen wollen. 
+Heute haben wir unser erstes Projekt benotet zurückbekommen. Wir haben uns sehr darüber gefreut, dass unsere Arbeit so positive Rückmeldung bekam. Dies zeigt uns, dass es sich gelohnt hat so viel Zeit und Mühe in das Informatikprojekt zu stecken. Außerdem motiviert es uns ebenfalls am neuen Projekt sehr engagiert zu arbeiten. 
+
+Im Zuge der Rückmeldungen zu unseren Projekten durften wir unser Projekt vor der Klasse präsentieren und vorstellen. Es hat uns sehr gefallen, dass wir auch einzelne andere Projekte von Mitschülern vorgestellt bekamen. Dies inspiriert einen und zeigt einem, wie unterschiedlich die Ergebnisse am Ende der Arbeitsphase doch geworden sind. 
+Außerdem konnte man Differenzen des eigenen zu anderen Programmierprogrammen feststellen.
+Das bekräftigte uns bei der Entscheidung, dass wir es bei dem zweiten Projekt mit dem für uns neuen Programm AppLab versuchen wollen. 
 Den Rest der Stunde haben wir weitere Ideen für unser neues Projekt gesammelt.
 
 ### Vierte Informatikstunde, 17.12.2018 <a name="17.12"></a>
 
 Heute haben wir leider beide beim Informatikunterricht gefehlt, Janina aufgrund von Krankheit, Carolin wegen eines Arztbesuches. Dennoch haben wir zu Hause weitergearbeitet. 
 Wir haben unter anderem den Blog der ersten Informatikstunden verbessert. 
-Außerdem haben wir mit dem Gedanken gespielt, die Gestaltung einer Homepage als neues Projekt zu wählen. Dafür würde sprechen, dass uns dies im späteren Leben ebenfalls zu Gute kommen könnte, beispielsweise wenn wir selbstständig werden möchten.
+Außerdem haben wir mit dem Gedanken gespielt, die Gestaltung einer Homepage als neues Projekt zu wählen. 
+Dafür würde sprechen, dass uns dies im späteren Leben ebenfalls zu Gute kommen könnte, beispielsweise wenn wir selbstständig werden möchten.
 Auch möchte Carolin schon länger eine Homepage für ihre eigenen Kurzfilme erstellen, was sich mit dem Informatikprojekt verbinden lassen würde. 
-Dennoch haben wir uns letztendlich für das Erstellen einer App entschieden, da uns dies spannender erschien und Carolin nicht so gerne eine Art "Selbstdarstellung" als Schulprojekt machen wollte. ;)
+Dennoch haben wir uns letztendlich doch dagegen und für das Erstellen einer App entschieden, da uns dies spannender erschien und Carolin nicht so gerne eine Art "Selbstdarstellung" als Schulprojekt machen wollte. ;)
 
 ### Fünfte Informatikstunde, 18.12.2018 <a name="18.12"></a>
 
@@ -77,40 +82,55 @@ Ein sogenannter "Protagonist" soll den Spieler durch das Geschehen leiten, momen
 Die App soll, wenn möglich, in mehrere Ebenen unterteilt sein. Eine Spielebene, eine Quizebene und eine Testebene. 
 Die App ist somit eine Art "Spielplatz" für den Spieler, der sich in verschiedenen Bereichen ausprobierern kann. 
 Über das konkrete Thema unserer App waren wir uns noch nicht einig. 
-Für zu Hause nahmen wir uns vor, uns über die Ferien gedanken darüber zu machen und weiter an dem Design unserer App zu feilen. 
+Es sollte allerding in allen Ebenen gleich sein und ein relevantes Thema sein, was viele Menschen interessiert. 
+Außerdem sollte es in Verbindung zu dem Fuchs stehen. 
+Wir hatten bereits den Gedanken uns auf unser Profilfach Biologie zu beziehen, eventuell auf das Fachgebiet Ökologie. 
+Für zu Hause nahmen wir uns jedoch vor, uns über die Ferien detallierte Gedanken darüber zu machen und weiter an dem Design unserer App zu feilen. 
 
 
 ### Sechste Informatikstunde, 08.01.2019 <a name="8.1"></a>
 
-Wir haben in der heutigen Informatikstunde den zweiten Screen erstellt, also das "Fuchsland". Man kommt dahin, indem man auf Screen1 auf den Button 1 ("ins Fuchsland") drückt. 
+Wir haben in der heutigen Informatikstunde den zweiten Screen erstellt, also das "Fuchsland". Man gelangt dahin, indem man auf Screen1 auf den Button 1 ("ins Fuchsland") betätigt. 
 
 
 ![bsp screen2](Bilder.exe/screen2.png)
 
 
-Unser Problem ist im Moment, dass wir nicht herausfinden, wie man in die if-Schleifen bestimmte Befehle, die wir von App-Inventor kennen, einfügt, da sie nicht als Block gibt. So brauchen wir zum Beispiel so etwas wie "If Button 1 is touched, open Screen2".
+Unser Problem ist im Moment, dass wir nicht herausfinden, wie man in die if-Schleifen bestimmte Befehle, die wir von App-Inventor kennen, einfügt, da es sie nicht als Block gibt. So brauchen wir zum Beispiel so etwas wie "If Button 1 is touched, open Screen2". Diesen konkreten Befehl finden wir auf AppLab jedoch momentan nicht. 
+Wir sind davon überzeugt, dass unsere benötigten Funktionen auf AppLab einfach einen anderen Namen haben. 
+Da es jedoch kaum "Erklärhandbücher" für AppLab gibt und nur vereinzelte englische Erklärvideos, kann man vieles nur durch Ausprobieren herausfinden. 
 
-Über die Ferien kam uns die Idee, dass unsere App etwas mit dem Thema Klimaschutz zu tun haben soll. Wir finden beide, dass Klimaschutz ein sehr wichtiges Thema in unserer Gesellschaft ist. 
+Über die Ferien kam uns die Idee, dass unsere App etwas mit dem Thema Klimaschutz zu tun haben soll. 
+Wir finden beide, dass Klimaschutz ein sehr wichtiges Thema in unserer Gesellschaft ist. 
 Auch die aktuell gefeierte 16-jährige Klimaaktivistin Greta Thunberg und die mit ihr verbundenen "FridaysForFuture" - Klimademonstrationen verhalfen uns zu der Idee für unsere App.
+
 Da unsere App als besondere Zielgruppe Kinder und Jugendliche haben soll, könnte sie dazu beitragen, dass sich noch mehr junge Leute der aktuellen Bewegung anschließen und so sensibel für das Thema werden, dass sie selber etwas dazu beitragen wollen. Damit wäre der bereits angesprochene Lerneffekt, der uns beiden wichtig ist, erfüllt.
 
 ### Siebte Informatikstunde, 15.01.2019 <a name="15.01"></a>
 
-Da die letzte Stunde ausgefallen ist, haben wir uns zu Hause intensiv mit dem Projekt beschäftigt. Dabei ist uns aufgefallen, dass uns das Design von App Inventor doch besser gefällt. Damit haben wir unser vorheriges Informatikprojekt programmiert. 
-Zwar hatte App Inventor einige Nachteile, zum Beispiel dass wir unsere App nicht auf unseren iPhones ausprobieren konnten.
-Aber mit App Inventor haben wir sehr viel mehr Erfahrung und können eventuell auch erst mal vieles programmieren und später mit Hilfe von Personen mit einem Android Handy das Programmierte ausprobieren. 
+Weil die letzte Stunde ausgefallen ist, haben wir uns zu Hause intensiv mit dem Projekt beschäftigt. 
+Dabei ist uns aufgefallen, dass uns das Design von App Inventor doch besser gefällt. Wahrscheinlich liegt das daran, dass wir unser vorheriges Informatikprojekt auch damit programmiert haben und es uns somit vertrauter vorkommt. 
+Zwar hatte App Inventor einige Nachteile, zum Beispiel, dass wir unsere App nicht auf unseren iPhones ausprobieren konnten.
+Aber mit App Inventor haben wir sehr viel mehr Erfahrung und können eventuell auch erst mal nur programmieren und später mit Hilfe von Personen mit einem Android Handy das Programmierte ausprobieren. 
+Wahrscheinlich trug zu dieser Umentscheidung auch bei, dass man auf AppLab dei Möglichkeit hat einen direkten "Code" zu schreiben. An sich ist dies sehr sinnvoll, jedoch blockierte die App wenn man versehetnlich eine Klammer vergaß. Diese zu finden war sehr mühsam und wir waren deshalb etwas genervt von AppLab.
+Wir nahmen uns vor, es zumindest einmal auf AppInventor zu versuchen, das Projekt auf AppLab jedoch für den Fall der Fälle noch zu behalten.
 
 
 ### Achte Informatikstunde, 21.01.2019 <a name="21.01"></a>
 
-Heute haben wir nach einigen technischen Problemen auf App Inventor unser Projekt so weit übertragen, wie wir es bereits auf App Lab erstellt hatten. Unser einziges Problem ist, dass man auf App Inventor eine Grenze in der Anzahl von Screens hat. Für unsere Idee benötigen wir jedoch vorraussichtlich mehr als zehn verschiedene Screens. Wir hatten die Idee, dass man eventuell mehrere Canvas in einen Screen legt und die App so programmiert, dass die Canvas pro Screen gewechselt werden können. 
+Heute haben wir nach einigen technischen Problemen unser Projekt so weit auf AppInventor übertragen, wie wir es bereits auf App Lab erstellt hatten. 
+Unser einziges Problem ist, dass man auf App Inventor eine Grenze in der Anzahl von Screens hat. 
+Für unsere Idee benötigen wir jedoch vorraussichtlich mehr als zehn verschiedene Screens. 
+Wir hatten die Idee, dass man eventuell mehrere Canvas in einen Screen legt und die App so programmiert, dass die Canvas pro Screen gewechselt werden können. 
 
 ### Neunte Informatikstunde, 22.01.2019 <a name="22.01"></a>
 
-In der heutigen Informatikstunde haben wir unsere Idee für unser Projekt konkretisiert. Der Fuchs soll weiterhin durch das Spiel leiten, jedoch hat unsere App nun ein spezielles Thema: Klimaschutz.
-Weiterhin soll es die verschiedenen Bereiche in der App geben. In der Spielebene wird ein Spiel gespielt, dessen Konzept wir uns noch genauer überlegen müssen. Dabei soll der Spieler jedoch virtuell "die Welt retten", zum Beispiel Müllstücke auffangen. In der Quizebene wartet ein Quiz auf den Spieler, in welchem er sein Wissen über den Klimaschutz testen kann. 
-Dort werden Fragen zu den Ursachen, Konsequenzen und Möglichkeiten sich für das Klima einzusetzen getestet.
-In der Testebene findet der Spieler einen Persönlichkeitstest, im dem er testen kann, ob er bereits genug für den Klimaschutz tut. 
+In der heutigen Informatikstunde haben wir unsere Idee für unser Projekt konkretisiert. 
+In der Spielebene wird ein Spiel gespielt, dessen Konzept wir uns noch genauer überlegen müssen. 
+Dabei soll der Spieler jedoch virtuell "die Welt retten", zum Beispiel Müllstücke auffangen. 
+In der Quizebene wartet ein Quiz auf den Spieler, in welchem er sein Wissen über den Klimaschutz testen kann. 
+Dort werden Fragen zu den Ursachen und Konsequenzen des Klimawandels getestet.
+In der Testebene findet der Spieler einen Persönlichkeitstest, im dem er testen kann, ob er selber bereits genug für den Klimaschutz tut. 
 
 
 ### Zehnte Informatikstunde, 29.01.2019 <a name="29.01"></a>
