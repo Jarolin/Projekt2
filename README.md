@@ -251,6 +251,13 @@ Uns kam die Idee, dass man ein Bild aus dem Internet mit Hilfe alternativer Apps
 
 Wir fügten unseren Fuchs in dieser Stunde das Programm ein, jedoch dauerte es trotzdem einige Zeit, bis wir die korrekten Befehle für ihn gefunden hatten. 
 
+![bsp bewegt](Bilder.exe/bewegt.png)
+
+
+
+
+
+
 
 ### Siebzehnte Informatikstunde 05.03.2019 <a name="5.03"></a>
 
@@ -263,6 +270,13 @@ Die Entscheidung den sich bewegenden Fuchs aus der Spielebe herauszunehmen häng
 Weiterhin sollen Müllobjekte gesammelt werden, jedoch nun in Form eines "Clicker Spiels."
 Dieses haben wir in der Stunde begonnen zu programmieren und zu Hause damit weitergemacht. 
 Auf dem Screen befindet sich eine Plastikflasche, die dadurch "eingesammelt" wird, dass der Spieler sie mit der Maus anklickt. Sie taucht nach erfolgreichem Klicken an einer anderen Position wieder auf. Ziel ist es die Flasche in einer bestimmten Zeit 10 Mal anzuklicken. Den Timer dafür müssen wir jedoch noch programmieren. 
+
+![bsp flasche](Bilder.exe/flasche.png)
+
+
+
+
+
 Für jedes korrekte Anklicken bekommt man einen Punkt, beim Erreichen von 10 Punkten wird man auf einen "Gewonnen"-Screen weitergeleitet.
 Diesen Score- Zähler haben wir nach anfänglichen Schwierigkeiten geschafft einzubauen:
 
@@ -271,6 +285,8 @@ Diesen Score- Zähler haben wir nach anfänglichen Schwierigkeiten geschafft ein
 Ebenfalls haben wir einen Zähler eingebaut, der die verlorenen Leben anzeigt. Anfangs soll der Spieler 3 Leben haben, bei jedem Danebenklicken eines verlieren. Wie das funktioniert war sehr schwierig herauszufinden. Schließlich hatten wir die Idee einen großen Button als Hintergrund zu verwenden und in diesen unser Hintergrundbild einzufügen. 
 Somit hat das Installieren des Leben-Zählers dann zum Glück geklappt.  
 
+
+![bsp scoree](Bilder.exe/scoree.png)
 
 ### Achtzehnte Informatikstunde 18.03.2019 <a name="18.03"></a>
 
