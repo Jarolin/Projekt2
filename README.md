@@ -73,8 +73,13 @@ Heute haben wir leider beide beim Informatikunterricht gefehlt, Janina aufgrund 
 Wir haben unter anderem den Blog der ersten Informatikstunden verbessert. 
 Außerdem haben wir mit dem Gedanken gespielt, die Gestaltung einer Homepage als neues Projekt zu wählen. 
 Dafür würde sprechen, dass uns dies im späteren Leben ebenfalls zu Gute kommen könnte, beispielsweise wenn wir selbstständig werden möchten.
+
 Auch möchte Carolin schon länger eine Homepage für ihre eigenen Kurzfilme erstellen, was sich mit dem Informatikprojekt verbinden lassen würde. 
-Wir haben uns über Programme informiert, mit denen man gut Homepages herstellen kann. 
+Wir haben uns über Programme informiert, mit denen man gut Homepages herstellen kann und über das Programmieren von Homepages allgemein.
+
+![bsp web](Bilder.exe/web.png)
+
+
 
 
 Dennoch haben wir uns letztendlich doch dagegen und für das Erstellen einer App entschieden, da uns dies spannender erschien und Carolin nicht so gerne eine Art "Selbstdarstellung" als Schulprojekt machen wollte. ;)
@@ -118,9 +123,12 @@ Da unsere App als besondere Zielgruppe Kinder und Jugendliche haben soll, könnt
 ### Siebte Informatikstunde, 15.01.2019 <a name="15.01"></a>
 
 Weil die letzte Stunde ausgefallen ist, haben wir uns zu Hause intensiv mit dem Projekt beschäftigt. 
-Dabei ist uns aufgefallen, dass uns das Design von App Inventor doch besser gefällt. Wahrscheinlich liegt das daran, dass wir unser vorheriges Informatikprojekt auch damit programmiert haben und es uns somit vertrauter vorkommt. 
+Dabei ist uns aufgefallen, dass uns das Design von App Inventor doch besser gefällt. 
+Wahrscheinlich liegt das daran, dass wir unser vorheriges Informatikprojekt auch damit programmiert haben und es uns somit vertrauter vorkommt. 
+
 Zwar hatte App Inventor einige Nachteile, zum Beispiel, dass wir unsere App nicht auf unseren iPhones ausprobieren konnten.
 Aber mit App Inventor haben wir sehr viel mehr Erfahrung und können eventuell auch erst mal nur programmieren und später mit Hilfe von Personen mit einem Android Handy das Programmierte ausprobieren. 
+
 Wahrscheinlich trug zu dieser Umentscheidung auch bei, dass man auf AppLab dei Möglichkeit hat einen direkten "Code" zu schreiben. An sich ist dies sehr sinnvoll, jedoch blockierte die App wenn man versehetnlich eine Klammer vergaß. Diese zu finden war sehr mühsam und wir waren deshalb etwas genervt von AppLab.
 Wir nahmen uns vor, es zumindest einmal auf AppInventor zu versuchen, das Projekt auf AppLab jedoch für den Fall der Fälle noch zu behalten.
 
@@ -131,6 +139,8 @@ Heute haben wir nach einigen technischen Problemen unser Projekt so weit auf App
 Unser einziges Problem ist, dass man auf App Inventor eine Grenze in der Anzahl von Screens hat. 
 Für unsere Idee benötigen wir jedoch vorraussichtlich mehr als zehn verschiedene Screens. 
 Wir hatten die Idee, dass man eventuell mehrere Canvas in einen Screen legt und die App so programmiert, dass die Canvas pro Screen gewechselt werden können. 
+
+BILD APP INVENTOR
 
 ### Neunte Informatikstunde, 22.01.2019 <a name="22.01"></a>
 
