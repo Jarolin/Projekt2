@@ -267,14 +267,25 @@ Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet.
 
 ### Zwanzigste Informatikstunde, 26.03.2019 <a name="26.03"></a>
 
-
+Heute haben wir die le
 
 ### Ausblick auf die weitere Arbeit <a name="ausblick"></a>
 
-- noch testebene
-
-
-
+Da wir unseren Stundenblock bereits heute abgeben müssen, wird in diesem nur unsere Arbeit bis zur heutigen Stunde dokumentiert sein. 
+Jedoch haben wir für unser Projekt noch etwas länger Zeit, weswegen es noch einige Veränderungen unserer App geben wird.
+An dieser Stelle möchten wir deshalb über unser weiteres Vorgehen berichten. 
+Wie bereits erwähnt konnten wir die Spielebene des Fuchslandes bereit komplett fertigstellen. 
+Auch der Quizteil ist beinahe fertig. Dort wollen wir nur noch ein oder zwei Fragen ergänzen. 
+Die Punkte werden auf den ersten Screens bereits gezählt, diesen "Score-Zähler" müssen wir noch auf den übrigen Screens installieren. Am Ende soll die Anzahl der richtigen Antworten dem Spieler angezeigt werden. 
+In der Testebene fehlen uns ebenfalls noch einige Dinge.
+Wir haben bereits das Design und den Fuchs als Spielfigur, der sich in der Testebene durch betätigen der Pfeiltasten in alle Richtungen bewegen kann. 
+Unser Ziel ist es in jeden Screen jeweils drei verschiedene Bilder einzufügen, sowie eine Frage. 
+Beispielsweise wird gefragt, welches Verkehrsmittel der Spieler meistens benutzt.
+Zur Auswahl sind ein Bild von einem Auto, ein Bus und ein Fahrrad.
+Der Spieler muss den Fuchs mit den Pfeiltasten dorthin steuern, was seiner Meinung nach am Besten auf ihn zutrifft.
+Je nach Antwort werden dem Spieler verschieden viele Punkte zugeteilt. Antwortet er umweltfreundlich, wird kein Punkt auf sein Punktekonto addiert. Antwortet er die mittlere Antwort wird ein Punkt addiert, wird eine umweltschädliche Antwort ausgewählt werden 2 Punkte ausgewählt.
+Am Ende der Testebene kann der Spieler anhand seiner erreichten Punkte herausfinden, in welchem Bereich er gelandet ist. 
+Des Weiteren hat er die Option sich durch das Klicken auf verschiedene Bilder über Optionen zu informieren, wie er persönlich etwas gegen den Klimawandel und für den Umweltschutz unternehmen kann.
 
 
 
@@ -282,10 +293,16 @@ Des Weiteren haben wir an dem Score für unsere Quizebene gearbeitet.
 
 Auch wenn unser Projekt zu diesem Zeitpunkt noch nicht abgeschlossen ist, können wir sagen, dass uns die Arbeit wie bereits letztes Mal sehr viel Spaß gebracht hat. 
 Wir waren überrascht davon, dass es wider Erwaten doch sehr lange gedauert hat, sich in das neue Programm AppLab hineinzufinden. 
-Uns selber würden wir empfehlen, dass wir uns nächstes Mal etwas schneller komplett entscheiden. Dass wir zu Beginn des Projekts sowohl auf AppLab, als auch auf AppInventor angefangen haben, hat uns sehr viel Zeit gekostet. 
-Jedoch denken wir auch, dass man erst durch Erfahrung lernt, welches Programm sich für welche Dinge besser eignet. 
-Unseren Erfahrungen nach kann auf AppInventor sehr schöne Spiele entwickeln, bei denen sich Bälle oder Sprites auf dem Canvas bewegen. Jedoch finden wir das Design von AppLab ästhetischer und moderner. Desweiteren gibt es bei AppLab kein ScreenLimit, sodass sich dieses Programm besonders gut für das Programmieren von beispielsweise Quizapps eignet. 
+
+Uns selber würden wir empfehlen, dass wir uns nächstes Mal etwas schneller endgültig entscheiden. 
+Dass wir zu Beginn des Projekts sowohl auf AppLab, als auch auf AppInventor angefangen haben, hat uns unnötig Zeit gekostet. 
+Jedoch denken wir auch, dass man erst durch Erfahrung lernt welches Programm sich für welche Dinge besser eignet. 
+Unseren Erfahrungen nach kann man auf AppInventor sehr gut Spiele entwickeln, bei denen sich Bälle oder Sprites auf dem Canvas bewegen. Jedoch finden wir das Design von AppLab ästhetischer und moderner. 
+Des Weiteren gibt es bei AppLab kein ScreenLimit, sodass sich dieses Programm besonders gut für das Programmieren von beispielsweise Quizapps eignet. 
+
 Insgesamt sind wir sehr froh, dass wir unser zweites Projekt mit einem neuen Programm gemacht haben, da man so seine Kenntnisse im Programmieren erweitern und dazulernen konnte. 
-Auch sind wir dankbar, dass wir durch den Iformatikunterricht in der Schule überhaupt mit dem Programmieren in Berührung kommen konnten. Ehrlich gesagt müssen wir zugeben, dass wir vor der zwölften Klasse ein sehr falsches Bild von Informatik hatten. Die Projekte haben uns gezeigt, dass dies keineswegs nur etwas für Computerfreaks ist. Genauso wichtig sind Ideen, Kreativität und Design. Außerdem spielen Logik und das Suchen nach Intelligenten Lösungen eine große Rolle. Anfangs ist es sehr anstrengend, doch je mehr man in sein Projekt und das Programm hineinfindet, desto mehr Spaß bringt es. 
-Wir sind jedenfalls froh diese Erfahrung gemacht zu haben und denken, dass sie einem im späteren Leben an einigen Stellen behilflich sein könnte. 
-Dafür möchten wir uns an dieser Stelle noch einmal bedanken. :)
+
+Auch sind wir dankbar, dass wir durch den Informatikunterricht in der Schule überhaupt mit dem Programmieren in Berührung kommen konnten. Ehrlich gesagt müssen wir zugeben, dass wir vor der zwölften Klasse ein sehr falsches Bild von Informatik hatten. 
+Die Projekte haben uns gezeigt, dass dies keineswegs nur etwas für Computerfreaks ist. 
+Genauso wichtig sind Ideen, Kreativität und Design. Außerdem spielen Logik und das Suchen nach intelligenten Lösungen eine große Rolle. Anfangs ist es sehr anstrengend, doch je mehr man in sein Projekt und das Programm hineinfindet, desto mehr Spaß bringt es. 
+Wir sind jedenfalls froh diese Erfahrung gemacht zu haben und denken, dass sie einem im späteren Leben an einigen Stellen behilflich sein könnte. :)
