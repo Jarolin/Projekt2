@@ -77,12 +77,11 @@ Dafür würde sprechen, dass uns dies im späteren Leben ebenfalls zu Gute komme
 Auch möchte Carolin schon länger eine Homepage für ihre eigenen Kurzfilme erstellen, was sich mit dem Informatikprojekt verbinden lassen würde. 
 Wir haben uns über Programme informiert, mit denen man gut Homepages herstellen kann und über das Programmieren von Homepages allgemein.
 
+Dennoch haben wir uns letztendlich doch dagegen und für das Erstellen einer App entschieden, da uns dies spannender erschien und Carolin nicht so gerne eine Art "Selbstdarstellung" als Schulprojekt machen wollte. ;)
+
 ![bsp web](Bilder.exe/web.png)
 
 
-
-
-Dennoch haben wir uns letztendlich doch dagegen und für das Erstellen einer App entschieden, da uns dies spannender erschien und Carolin nicht so gerne eine Art "Selbstdarstellung" als Schulprojekt machen wollte. ;)
 
 ### Fünfte Informatikstunde, 18.12.2018 <a name="18.12"></a>
 
@@ -140,7 +139,8 @@ Unser einziges Problem ist, dass man auf App Inventor eine Grenze in der Anzahl 
 Für unsere Idee benötigen wir jedoch vorraussichtlich mehr als zehn verschiedene Screens. 
 Wir hatten die Idee, dass man eventuell mehrere Canvas in einen Screen legt und die App so programmiert, dass die Canvas pro Screen gewechselt werden können. 
 
-BILD APP INVENTOR
+
+![bsp App Inventor](Bilder.exe/App Inventor.png)
 
 ### Neunte Informatikstunde, 22.01.2019 <a name="22.01"></a>
 
@@ -155,7 +155,7 @@ In der Testebene findet der Spieler einen Persönlichkeitstest, im dem er testen
 ### Zehnte Informatikstunde, 29.01.2019 <a name="29.01"></a>
 
 Wir haben momentan das Problem, dass wir unser Projekt sowohl auf AppLab begonnen haben, als auch auf AppInventor damit gestartet haben. 
-Da wir nun aber besser mit AppLab klar kommen und auch schon einige Blocks erstellen konnten, haben wir uns nun endgültig für AppLab entschieden. 
+Da wir nun durch weiteres Probieren zu Hause aber besser mit AppLab klar kommen und auch schon einige Blocks erstellen konnten, haben wir uns nun endgültig für AppLab entschieden. 
 Hier die ersten Eindrücke von unseren Startscreens für die einzelnen Ebenen.
 
 ![bsp screenshot1](Bilder.exe/screenshot1.png)
@@ -168,7 +168,8 @@ Hier die ersten Eindrücke von unseren Startscreens für die einzelnen Ebenen.
  ### Elfte Informatikstunde, 04.02.2019 <a name="4.02"></a>
  
  
-Heute haben wir weiter an den einzelnen Screens garbeitet und uns dabei erstmal auf das Design und die Bezeichnungen für die verschiedenen Screens und Buttons konzentriert. Danach haben wir für die Quizebene drei Fragescreens erstellt, die um den Klimaschutz gehen. 
+Heute haben wir weiter an den einzelnen Screens garbeitet und uns dabei erstmal auf das Design und die Bezeichnungen für die verschiedenen Screens und Buttons konzentriert. 
+Danach haben wir für die Quizebene drei Fragescreens erstellt, die um den Klimaschutz gehen. 
  
  Da morgen die Doppelstunde ausfällt, haben wir heute zudem zu Hause weiter an dem Projekt gearbeitet.
  
@@ -177,7 +178,9 @@ Heute haben wir weiter an den einzelnen Screens garbeitet und uns dabei erstmal 
  
 Aufgrund von Ausfall der Informatikstunden zuvor haben wir in der Zwischenzeit zu Hause an unserem Projekt weitergearbeitet. 
 Insbesondere am Design der Screens haben wir Veränderungen vorgenommen.
-Zu Beginn der zwölften Informatikstunde ließ sich aufgrund von Fehlern im Code nicht mehr von der Textansicht zur Bausteineansicht wechseln. Somit mussten wir zunächst versuchen, den Fehler zu finden und zu korrigieren. 
+
+Zu Beginn der zwölften Informatikstunde ließ sich aufgrund von Fehlern im Code nicht mehr von der Textansicht zur Bausteineansicht wechseln. Somit mussten wir zunächst versuchen, den Fehler zu finden und zu korrigieren.
+
 Dies wäre in der Bausteineansicht sehr viel leichter und übersichtlicher gewesen und es kostete Zeit, bis wir ein paar einzelne Klammern so verändert hatten, dass das Programm sich wieder umschalten ließ. 
 Anschließend haben wir uns eine weitere Frage zum Klimawandel ausgedacht, das Design dieser erstellt und die notwendigen Befehle programmeirt. Wir haben uns ebenfalls den Erklärtext ausgedacht.
 
@@ -186,20 +189,28 @@ Anschließend haben wir uns eine weitere Frage zum Klimawandel ausgedacht, das D
  
  ### Dreizehnte Informatikstunde 19.02.2019 <a name="19.02"></a>
  
- Heute haben wir intensiv an unserem Projekt weitergearbeitet. Aufgrund der vielen verschiedenen Antwortmöglichkeiten und dem damit verbundenem Öffnen verschiedener Screens, ist unsere Programmierung etwas unübersichtlich geworden. 
+Heute haben wir intensiv an unserem Projekt weitergearbeitet. 
+Aufgrund der vielen verschiedenen Antwortmöglichkeiten und dem damit verbundenem Öffnen verschiedener Screens, ist unsere Programmierung etwas unübersichtlich geworden. 
 Somit haben wir etwas den Überblick verloren, welche Programmierungen und Buttons bereits funktionieren und welche noch nicht. 
-Deshalb haben wir uns heute vorgenommen, dies intensiv mit Hilfe eines Baumdiagramms zu überprüfen. Wir haben alle möglichen Kombinationen von Antwortmöglichkkeiten ausprobiert und hinter funktionierende Pfade einen Haken gesetzt. Einzelne Blöcke haben jedoch nicht funktioniert, weswegen wir im Code nach Fehlern suchen mussten.
+Deshalb haben wir uns heute vorgenommen, dies intensiv mit Hilfe eines Baumdiagramms zu überprüfen. 
+
+Wir haben alle möglichen Kombinationen von Antwortmöglichkkeiten ausprobiert und hinter funktionierende Pfade einen Haken gesetzt. Einzelne Blöcke haben jedoch nicht funktioniert, weswegen wir im Code nach Fehlern suchen mussten.
 Manchmal waren die enstprechenden Programmierungen bereits vorhanden und nur in einer Zeile verrutscht oder an der falschen Stelle in den Code eingefügt. 
+
 Auch fehlte ab und zu eine einzelne Klammer, sodass der gesamte Befehl wirkungslos wurde. 
 Am Ende der Stunde haben wir beinahe das gesamte Baumdiagramm fertig stellen können und in den bereits überprüften Pfaden alle Fehler beheben können. Die restlichen Pfade müssen wir nächste Stunde noch überprüfen.
  
+ BILD
  
  ### Vierzehnte Informatikstunde 25.02.2019 <a name="25.02"></a>
  
-In der heutigen Informatuikstunde haben wir mit dem Überprüfen der einzelnen Pfade weitergemacht. Jedoch ist uns aufgefallen, dass die Programmierung trotz am Ende vorhandener Funktionalität viel zu umständlich, kompliziert und unübersichtlich geworden ist. 
+In der heutigen Informatikstunde haben wir mit dem Überprüfen der einzelnen Pfade weitergemacht. 
+Jedoch ist uns aufgefallen, dass die Programmierung trotz am Ende vorhandener Funktionalität viel zu umständlich, kompliziert und unübersichtlich geworden ist. 
 Aus diesem Grund haben wir uns nach einem kurzen Beratungsgespräch mit Herr Buhl dazu entschlossen, dass wir versuchen wollen eine Lösung zu finden, sodass einzelne Befehle zusammengefasst werden können und diese vielen Pfade wegfallen. 
 
-Zu Hause möchten wir uns mit Hilfe von Tutorials darüber informieren, ob und inwiefern  dies möglioch ist.  Auch haben wir heute die Deadline für unser Projekt mit Herrn Buhl besprochen. Daraufhin haben wir uns einen Plan gemacht, was wir bis wann fertig haben möchten, damit wir das Projekt trotz unserer zahlreichen Klausuren und der Abiturvorbereitung rechtzeitig fertigstellen können.
+Zu Hause möchten wir uns mit Hilfe von Tutorials darüber informieren, ob und inwiefern  dies möglioch ist.  
+Auch haben wir heute die Deadline für unser Projekt mit Herrn Buhl besprochen. Daraufhin haben wir uns einen Plan gemacht, was wir bis wann fertig haben möchten, damit wir das Projekt trotz unserer zahlreichen Klausuren und der Abiturvorbereitung rechtzeitig fertigstellen können.
+
 Auch haben wir darüber nachgedacht, ob es zeitlich machbar ist, alle drei geplanten Bereiche des Fuchslandes (Quiz, Test und Spiel) umzusetzen. Wir haben beschlossen, mindestens einen weiteren Bereich bis zur Abgabe des Projekts fertig zu stellen. 
 Sollte die Zeit reichen, werden wir ebenfalls den dritten Bereich erstellen. Zur Not würde der Bereich "Test" leider wegfallen.
  
@@ -214,17 +225,25 @@ Des Weiteren hat Carolin sich Gedanken über den zweiten Bereich unserer App, de
 Bis jetzt haben wir sehr viel Zeit in das Programmieren des Quizzes gesteckt, was sich aufgrund der verschiedenen Erklärtexte usw. als komplizierter als zunächst gedacht erwies. 
 
 Bei der Spielebene hatten wir uns bereits vorher überlegt, dass das Spiel ebenfalls klimaschutzbezogen sein soll.
-eine mögliche konkrete Idee wäre beispielsweise das Müllfangen. Die Müllverschmutzung ist ein großes Problem unseres Planeten und ein wichtiger Punkt im Klimaschutz. Wenn man in einem Spiel eine Figur einzelne Müllteile fangen oder sammeln lässt und es dafür Belohnungen in Form von Punkten gibt, kann das eine positive Auswirkung auf die Psyche der Spieler haben. 
-Durch den Anreiz im Spiel werden sie für das Müllproblem sensibilisiert und achten unterbewusst im echten Leben darauf ihre Müllverschmutzung zu reduzieren oder Müll aufzusammeln. So können durch das Spiel spielerisch wichtige Werte vermittelt werden, die ihm einen Sinn geben und unserer Welt zu Gute kommen. 
+eine mögliche konkrete Idee wäre beispielsweise das Müllfangen. 
+Die Müllverschmutzung ist ein großes Problem unseres Planeten und ein wichtiger Punkt im Klimaschutz. 
+Wenn man in einem Spiel eine Figur einzelne Müllteile fangen oder sammeln lässt und es dafür Belohnungen in Form von Punkten gibt, kann das eine positive Auswirkung auf die Psyche der Spieler haben. 
+Durch den Anreiz im Spiel werden sie für das Müllproblem sensibilisiert und achten unterbewusst im echten Leben darauf ihre Müllverschmutzung zu reduzieren oder Müll aufzusammeln. 
+
+So können durch das Spiel spielerisch wichtige Werte vermittelt werden, die ihm einen Sinn geben und unserer Welt zu Gute kommen. 
 
 ### Sechzehnte Informatikstunde 04.03.2019 <a name="4.03"></a>
 
-In dieser Informatikstunde haben wir uns intensiv mit der zweiten Ebene unserer App, dem Spiel, beschäftigt. Zu Hause hatten wir uns beide bereits darüber informiert, mit welchen Befehlen man eine Spielfigur steuern kann.
+In dieser Informatikstunde haben wir uns intensiv mit der zweiten Ebene unserer App, dem Spiel, beschäftigt. 
+Zu Hause hatten wir uns beide bereits darüber informiert, mit welchen Befehlen man eine Spielfigur steuern kann.
 Bei unserem vorherigen Projekt auf AppInventor hatten wir ebenfalls eine sich bewegende Spielfigur, jedoch geschah das dort mit anderen Befehlen. 
+
 Auf App Inventor musste man ein sogenanntes "Sprite" als Figur verwenden, dieses suchten wir auf AppLAb jedoch vergeblich. 
 Schließlich fanden wir heraus, dass auf AppLab einfach "Images" verwendet werden.
 Das stellt uns vor ein Problem, denn die Müllobjekte, die der Fuchs einsammeln soll, müssen somit ebenfalls "Images" sein. Jedoch findet man im Internet die meisten Bilder nur mit einem weißen Hintergrund. 
+
 Uns kam die Idee, dass man ein Bild aus dem Internet mit Hilfe alternativer Apps wie Snapchat als "Sticker" zuschneiden könnte und diesen dann verwenden könnte. Jedoch müssen wir zu Hause überprüfen, ob das möglich ist. 
+
 Wir fügten unseren Fuchs in dieser Stunde das Programm ein, jedoch dauerte es trotzdem einige Zeit, bis wir die korrekten Befehle für ihn gefunden hatten. 
 
 
