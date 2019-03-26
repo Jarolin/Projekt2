@@ -205,7 +205,7 @@ Manchmal waren die enstprechenden Programmierungen bereits vorhanden und nur in 
 Auch fehlte ab und zu eine einzelne Klammer, sodass der gesamte Befehl wirkungslos wurde. 
 Am Ende der Stunde haben wir beinahe das gesamte Baumdiagramm fertig stellen können und in den bereits überprüften Pfaden alle Fehler beheben können. Die restlichen Pfade müssen wir nächste Stunde noch überprüfen.
  
-![bsp dia](Bilder.exe/dia.jpg.png)
+![bsp baa](Bilder.exe/baa.jpg)
  
  ### Vierzehnte Informatikstunde 25.02.2019 <a name="25.02"></a>
  
