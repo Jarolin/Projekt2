@@ -140,7 +140,7 @@ Für unsere Idee benötigen wir jedoch vorraussichtlich mehr als zehn verschiede
 Wir hatten die Idee, dass man eventuell mehrere Canvas in einen Screen legt und die App so programmiert, dass die Canvas pro Screen gewechselt werden können. 
 
 
-![bsp App Inventor](Bilder.exe/App Inventor.png)
+![bsp inventor](Bilder.exe/inventor.png)
 
 ### Neunte Informatikstunde, 22.01.2019 <a name="22.01"></a>
 
