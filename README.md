@@ -173,6 +173,8 @@ Danach haben wir für die Quizebene drei Fragescreens erstellt, die um den Klima
  
  Da morgen die Doppelstunde ausfällt, haben wir heute zudem zu Hause weiter an dem Projekt gearbeitet.
  
+ ![bsp sc4](Bilder.exe/sc4.png)
+
  
  ### Zwölfte Informatikstunde 12.02.2019 <a name="12.02"></a>
  
@@ -184,6 +186,9 @@ Zu Beginn der zwölften Informatikstunde ließ sich aufgrund von Fehlern im Code
 Dies wäre in der Bausteineansicht sehr viel leichter und übersichtlicher gewesen und es kostete Zeit, bis wir ein paar einzelne Klammern so verändert hatten, dass das Programm sich wieder umschalten ließ. 
 Anschließend haben wir uns eine weitere Frage zum Klimawandel ausgedacht, das Design dieser erstellt und die notwendigen Befehle programmeirt. Wir haben uns ebenfalls den Erklärtext ausgedacht.
 
+![bsp sc5](Bilder.exe/sc5.png)
+
+![bsp sc6](Bilder.exe/sc6.png)
  
 
  
@@ -302,15 +307,8 @@ Und das Spiel an sich:
 ![bsp sc3](Bilder.exe/sc3.png)
 
 
-Wir werden aber den Timer nochmal optimieren müssen, da er zu früh anfängt, die Zeit runter zu zählen bzw. ab Sekunde 16 runterzählt.
+Außerdem haben wir das Quiz um 3 Fragen erweitert und noch nicht fertige Screens fertiggestellt. Unser Ziel ist es, mindestens 8 Fragen zu haben. 
 
-Außerdem haben wir das Quiz um 3 Fragen erweitert und noch nicht fertige Screens fertiggestellt. Unser Ziel ist es, mindestens 8 Fragen zu haben. So sehen sie zum Beispiel aus:
-
-![bsp sc4](Bilder.exe/sc4.png)
-
-![bsp sc5](Bilder.exe/sc5.png)
-
-![bsp sc6](Bilder.exe/sc6.png)
 
 Auch beim Quiz wollen wir noch einen Score einbauen, daran arbeiten wir gerade. Unser Ziel ist es, dass die richtigen Antworten kontinuierlich gezählt werden und der Spieler am Ende das Gesamtergebnis angezeigt bekommt. 
 
