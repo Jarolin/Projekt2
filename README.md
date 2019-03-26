@@ -273,7 +273,7 @@ Auf dem Screen befindet sich eine Plastikflasche, die dadurch "eingesammelt" wir
 
 ![bsp flasche](Bilder.exe/flasche.png)
 
-
+![bsp verein](Bilder.exe/verein.png)
 
 
 
