@@ -219,7 +219,7 @@ Auch haben wir heute die Deadline für unser Projekt mit Herrn Buhl besprochen. 
 Auch haben wir darüber nachgedacht, ob es zeitlich machbar ist, alle drei geplanten Bereiche des Fuchslandes (Quiz, Test und Spiel) umzusetzen. Wir haben beschlossen, mindestens einen weiteren Bereich bis zur Abgabe des Projekts fertig zu stellen. 
 Sollte die Zeit reichen, werden wir ebenfalls den dritten Bereich erstellen. Zur Not würde der Bereich "Test" leider wegfallen.
  
- ### Fünfzente Indormatikstunde 26.02.2019 <a name="26.02"></a>
+ ### Fünfzehnte Informatikstunde 26.02.2019 <a name="26.02"></a>
  
 Heute war Janina leider krank, weswegen Carolin alleine am Projekt weiterarbeiten musste. 
 Janina hat währenddessen zu Hause weiter nach Lösungen gesucht um unsere Programmierung zu vereinfachen. 
